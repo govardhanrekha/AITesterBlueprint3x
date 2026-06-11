@@ -1,0 +1,22 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Claude config
+.claude/
+Project_03_BLAST_FW_Test_Strategy_Generator/
