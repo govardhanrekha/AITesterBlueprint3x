@@ -1,0 +1,51 @@
+TC_ID,Module,Test Scenario,Test Case Description,Preconditions,Test Steps,Test Data,Expected Result,Priority,Test Type
+TC_001,Authentication,Generate Auth Token,Verify token generation with valid credentials,API available,Send POST /auth request,Valid username/password,Token generated successfully,High,Positive
+TC_002,Authentication,Invalid Password,Verify authentication failure with invalid password,API available,Send POST /auth request,Invalid password,Authentication failed message,High,Negative
+TC_003,Authentication,Invalid Username,Verify authentication failure with invalid username,API available,Send POST /auth request,Invalid username,Authentication failed message,High,Negative
+TC_004,Authentication,Blank Credentials,Verify authentication with empty credentials,API available,Send POST /auth request,Empty values,Validation error displayed,High,Validation
+TC_005,Authentication,SQL Injection Attempt,Verify API rejects malicious input,API available,Send POST /auth request,SQL injection string,Request rejected securely,High,Security
+TC_006,Create Booking,Create Booking Valid Data,Verify booking creation with valid payload,API available,Send POST /booking,Valid booking JSON,Booking created successfully,High,Positive
+TC_007,Create Booking,Missing First Name,Verify mandatory field validation,API available,Send POST /booking,Firstname missing,Validation error,High,Negative
+TC_008,Create Booking,Missing Last Name,Verify mandatory field validation,API available,Send POST /booking,Lastname missing,Validation error,High,Negative
+TC_009,Create Booking,Missing Dates,Verify booking date validation,API available,Send POST /booking,Checkin/Checkout missing,Validation error,High,Negative
+TC_010,Create Booking,Invalid Date Format,Verify API handles invalid date format,API available,Send POST /booking,2026/15/45,Validation error,Medium,Validation
+TC_011,Create Booking,Maximum Name Length,Verify maximum field length handling,API available,Send POST /booking,255-character name,Booking created or validation shown,Medium,Boundary
+TC_012,Create Booking,Minimum Name Length,Verify minimum valid field length,API available,Send POST /booking,Single character name,Booking processed successfully,Medium,Boundary
+TC_013,Create Booking,Special Characters,Verify special character handling,API available,Send POST /booking,@#$%^&*,Validation handled correctly,Medium,Validation
+TC_014,Create Booking,Null Values,Verify handling of null inputs,API available,Send POST /booking,Null fields,Validation error,High,Negative
+TC_015,Create Booking,Large Payload,Verify API handles large payloads,API available,Send POST /booking,Large JSON payload,System handles request properly,Medium,Boundary
+TC_016,Get Booking,Valid Booking ID,Retrieve booking using valid ID,Existing booking,Send GET /booking/{id},Valid ID,Booking details returned,High,Positive
+TC_017,Get Booking,Invalid Booking ID,Retrieve booking using invalid ID,API available,Send GET request,Invalid ID,Error response returned,High,Negative
+TC_018,Get Booking,Non-existing Booking ID,Retrieve booking not present in system,API available,Send GET request,Non-existing ID,Not Found response,Medium,Negative
+TC_019,Get Booking,Boundary Booking ID,Verify lowest valid booking ID,Existing booking,Send GET request,Minimum ID,Booking details returned,Medium,Boundary
+TC_020,Get Booking,Large Booking ID,Verify handling of large booking ID,API available,Send GET request,Large ID value,Error handled correctly,Medium,Boundary
+TC_021,Get Booking,Response Schema Validation,Verify response structure,Existing booking,Send GET request,Valid ID,Response matches schema,High,Validation
+TC_022,Get Booking,Response Content Validation,Verify returned data accuracy,Existing booking,Send GET request,Valid ID,Correct booking details returned,High,Validation
+TC_023,Update Booking,Valid Update,Verify booking update with valid data,"Booking exists, Token available",Send PUT request,Updated payload,Booking updated successfully,High,Positive
+TC_024,Update Booking,Unauthorized Update,Verify update without token,Booking exists,Send PUT request,No token,Unauthorized response,High,Negative
+TC_025,Update Booking,Invalid Payload Update,Verify update with invalid payload,Booking exists,Send PUT request,Invalid JSON,Validation error,High,Negative
+TC_026,Update Booking,Update Non-existing Booking,Verify update on non-existing booking,Valid token,Send PUT request,Invalid Booking ID,Not Found response,Medium,Negative
+TC_027,Update Booking,Boundary Value Update,Verify update using boundary field values,Booking exists,Send PUT request,Min/Max values,Update successful,Medium,Boundary
+TC_028,Partial Update,Valid Partial Update,Verify PATCH updates selected fields,"Booking exists, Token available",Send PATCH request,Partial payload,Selected fields updated,High,Positive
+TC_029,Partial Update,Unauthorized Partial Update,Verify PATCH without authentication,Booking exists,Send PATCH request,No token,Unauthorized response,High,Negative
+TC_030,Partial Update,Invalid Partial Payload,Verify PATCH with invalid field values,Booking exists,Send PATCH request,Invalid data,Validation error,Medium,Validation
+TC_031,Delete Booking,Valid Delete,Verify successful booking deletion,"Booking exists, Token available",Send DELETE request,Valid Booking ID,Booking deleted successfully,High,Positive
+TC_032,Delete Booking,Delete Without Token,Verify delete operation without authentication,Booking exists,Send DELETE request,No token,Unauthorized response,High,Negative
+TC_033,Delete Booking,Delete Invalid Booking ID,Verify delete using invalid ID,Valid token,Send DELETE request,Invalid ID,Error response returned,Medium,Negative
+TC_034,Delete Booking,Delete Already Deleted Booking,Verify repeated delete request,Booking deleted,Send DELETE request again,Same ID,Not Found response,Medium,Negative
+TC_035,Delete Booking,Verify Data Removal,Confirm booking is removed after deletion,Booking deleted,Execute GET request,Deleted ID,Booking not found,High,Validation
+TC_036,Data Validation,Invalid Data Type,Verify validation for incorrect data types,API available,Submit request,String instead of integer,Validation error,High,Validation
+TC_037,Data Validation,Empty Request Body,Verify API behavior for empty payload,API available,Send request,Empty JSON,Validation error,High,Validation
+TC_038,Data Validation,Null Mandatory Fields,Verify mandatory field validation,API available,Submit request,Null values,Validation error,High,Validation
+TC_039,Data Validation,Unsupported Characters,Verify validation of special characters,API available,Submit request,Invalid symbols,Validation error,Medium,Validation
+TC_040,Security Testing,SQL Injection,Verify API protection against SQL Injection,API available,Send malicious payload,SQL query string,Request rejected,High,Security
+TC_041,Security Testing,XSS Attack,Verify API protection against XSS,API available,Submit script tag,<script>alert(1)</script>,Input sanitized/rejected,High,Security
+TC_042,Security Testing,Sensitive Data Exposure,Verify sensitive information is not exposed,API available,Execute requests,Valid requests,No sensitive data returned,High,Security
+TC_043,Performance Testing,Response Time Validation,Verify API response under normal load,API available,Execute requests,Standard payload,Response within SLA,Medium,Performance
+TC_044,Performance Testing,Peak Load Validation,Verify response under high traffic,Load tool available,Simulate concurrent users,100+ requests,Stable response,Medium,Performance
+TC_045,Load Testing,Stress Test API,Verify API behavior beyond expected load,Load environment available,Increase request volume,High concurrency,Graceful degradation,Medium,Performance
+TC_046,Concurrency Testing,Simultaneous Updates,Verify concurrent booking updates,Multiple users available,Update same booking simultaneously,Multiple requests,Data consistency maintained,High,Concurrency
+TC_047,Integration Testing,CRUD End-to-End Flow,Verify Create ? Read ? Update ? Delete workflow,API available,Execute full flow,Valid booking data,Entire flow successful,High,Integration
+TC_048,Rate Limiting,Excessive Requests,Verify API rate limiting rules,API available,Send rapid requests,Large request volume,Rate limit response returned,Medium,Validation
+TC_049,Compatibility Testing,Cross-Platform API Access,Verify API works across supported platforms,Multiple environments available,Execute API calls,Windows/Mac/Mobile,Consistent behavior,Low,Compatibility
+TC_050,Regression Testing,Verify Existing Functionality After Changes,Ensure existing CRUD features continue to work,Updated build available,Execute regression suite,Existing test data,No functionality broken,High,Regression
