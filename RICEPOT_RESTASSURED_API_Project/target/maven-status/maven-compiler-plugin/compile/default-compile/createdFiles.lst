@@ -1,0 +1,9 @@
+com\ricepot\api\config\ConfigManager.class
+com\ricepot\api\models\AuthRequest.class
+com\ricepot\api\models\BookingDates.class
+com\ricepot\api\services\BookingService.class
+com\ricepot\api\utils\AuthManager.class
+com\ricepot\api\base\BaseRequest.class
+com\ricepot\api\models\Booking.class
+com\ricepot\api\utils\ExcelUtils.class
+com\ricepot\api\utils\JsonUtils.class

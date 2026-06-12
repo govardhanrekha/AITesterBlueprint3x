@@ -1,0 +1,4 @@
+com\ricepot\api\tests\BookingTests.class
+com\ricepot\api\dataProviders\ExcelDataProvider.class
+com\ricepot\api\tests\AuthTests.class
+com\ricepot\api\tests\PingTests.class
