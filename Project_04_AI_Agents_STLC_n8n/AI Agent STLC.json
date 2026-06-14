@@ -1,0 +1,99 @@
+{
+  "name": "AI Agent STLC",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        -240,
+        -144
+      ],
+      "id": "78b8815d-b578-4c36-88a2-5730f4322d01",
+      "name": "When chat message received",
+      "webhookId": "52e58b48-b1b9-4f8b-af99-bae0ef8cc1e9"
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "You are a QA Agent you will only answer the QA related Queries. Expected answer will be technical answer related to QA. RACE Framework\n  "
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        -32,
+        -144
+      ],
+      "id": "ac2c03ce-24ac-4059-9f38-6fc4547bad16",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+      "typeVersion": 1,
+      "position": [
+        -176,
+        64
+      ],
+      "id": "e97c5d35-b2a7-4714-bc59-088b093c8700",
+      "name": "QUEN Brain",
+      "credentials": {
+        "groqApi": {
+          "id": "j9mGYMBwCkdU6k8T",
+          "name": "Groq account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "QUEN Brain": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "2771dfd4-b479-4a24-bead-5a9e89418fa7",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "eff6d285246ddc4f45698137ca381b290113c08d778f792be7cba14db595158d"
+  },
+  "nodeGroups": [],
+  "id": "7yJJXDx0ux0KORTs",
+  "tags": [
+    {
+      "updatedAt": "2026-06-13T12:54:29.695Z",
+      "createdAt": "2026-06-13T12:54:29.695Z",
+      "id": "whoeXP7QNtj5pdhy",
+      "name": "AIAgent1"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "name": "AI Agent STLC_JIRA",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "af266c7c-8f7c-4228-a6d8-0b4b1d6d57df",
+      "name": "When chat message received",
+      "webhookId": "52e58b48-b1b9-4f8b-af99-bae0ef8cc1e9"
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "You are a QA Agent you will only answer the QA related Queries. Expected answer will be technical answer related to QA. use RACE Framework and work according to JIRA tool attached \n  "
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "ccfe6a4f-e947-4e1e-affa-cc038fddf9a6",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": "llama-3.3-70b-versatile",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+      "typeVersion": 1,
+      "position": [
+        64,
+        208
+      ],
+      "id": "5a6c8574-3800-4f37-9a4b-f93b452ff712",
+      "name": "QUEN Brain",
+      "credentials": {
+        "groqApi": {
+          "id": "j9mGYMBwCkdU6k8T",
+          "name": "Groq account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "project": {
+          "__rl": true,
+          "value": "10000",
+          "mode": "list",
+          "cachedResultName": "TestStrategy"
+        },
+        "issueType": {
+          "__rl": true,
+          "value": "10006",
+          "mode": "list",
+          "cachedResultName": "Bug"
+        },
+        "summary": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Summary', ``, 'string') }}",
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.jiraTool",
+      "typeVersion": 1,
+      "position": [
+        368,
+        208
+      ],
+      "id": "0b451d87-4671-43aa-9aa2-76a188cb9c5b",
+      "name": "Create an issue in Jira Software",
+      "credentials": {
+        "jiraSoftwareCloudApi": {
+          "id": "cnA71GV47G8JxXCc",
+          "name": "Jira SW Cloud account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.4,
+      "position": [
+        224,
+        176
+      ],
+      "id": "44ba84e3-00be-4c01-921b-0a671dd568f4",
+      "name": "Simple Memory"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "QUEN Brain": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create an issue in Jira Software": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "49e04e2e-7b58-46e8-9ab0-af48bb7a9c69",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "eff6d285246ddc4f45698137ca381b290113c08d778f792be7cba14db595158d"
+  },
+  "nodeGroups": [],
+  "id": "uXUagLyJeOCvgDQB",
+  "tags": [
+    {
+      "updatedAt": "2026-06-13T12:54:29.695Z",
+      "createdAt": "2026-06-13T12:54:29.695Z",
+      "id": "whoeXP7QNtj5pdhy",
+      "name": "AIAgent1"
+    }
+  ]
+}

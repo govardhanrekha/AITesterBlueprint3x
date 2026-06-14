@@ -1,0 +1,370 @@
+{
+  "name": "AI Agent STLC_JIRA_From_PRD",
+  "nodes": [
+    {
+      "parameters": {
+        "operation": "pdf",
+        "options": {
+          "joinPages": true
+        }
+      },
+      "id": "ddb049e5-79b7-4142-840e-c447b4b5b4ce",
+      "name": "Extract PDF Content",
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        448,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=You are a senior QA engineer. Based on the following PRD content, create a comprehensive test plan in Markdown format.\\n\\nPRD Content:\\n{{ $json.data }}\\n\\nGenerate a test plan covering:\\n- Project Overview (product name, scope, version)\\n- Test Objectives\\n- Features to be Tested (one section per feature from the PRD)\\n- Features NOT to be Tested (explicitly out of scope)\\n- Test Types (Functional, Regression, Edge Cases, Negative Testing, UI/UX)\\n- Test Environment & Prerequisites\\n- Entry and Exit Criteria\\n- Risk Assessment\\n- Test Schedule / Effort Estimate\\n\\nReturn ONLY the markdown content, no additional commentary.",
+        "options": {
+          "systemMessage": "You are a senior QA engineer specialized in creating comprehensive test plans. Generate detailed, structured test documentation based on PRD inputs.",
+          "maxIterations": 5
+        }
+      },
+      "id": "3c8e0a1c-bdea-40bf-89e3-484f35b06473",
+      "name": "Generate Test Plan",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        672,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "model": "llama-3.3-70b-versatile",
+        "options": {
+          "maxTokensToSample": 8000,
+          "temperature": 0.3
+        }
+      },
+      "id": "c833a115-a851-4fb9-a246-0f07894a807f",
+      "name": "Groq Model",
+      "type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+      "typeVersion": 1,
+      "position": [
+        752,
+        224
+      ],
+      "credentials": {
+        "groqApi": {
+          "id": "j9mGYMBwCkdU6k8T",
+          "name": "Groq account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "output",
+        "binaryPropertyName": "test_plan",
+        "options": {
+          "fileName": "test_plan.md"
+        }
+      },
+      "id": "a1d45e02-1832-4625-808a-1c9d50f49336",
+      "name": "Create test_plan.md",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1024,
+        112
+      ]
+    },
+    {
+      "parameters": {
+        "numberInputs": 3
+      },
+      "id": "8dc403ee-fd37-4d97-b856-0cc12b5e8458",
+      "name": "Combine All Files",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1248,
+        384
+      ]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=You are a senior QA engineer. Based on the following PRD content, create detailed test cases in CSV format.\\n\\nPRD Content:\\n{{ $(\"Extract PDF Content\").item.json.data }}\\n\\nGenerate test cases with these exact columns:\\nTest Case ID,Feature,Test Scenario,Test Steps,Expected Result,Priority,Type\\n\\nExample format:\\nTC001,User Authentication,Verify user can sign up with valid email,Step 1: Navigate to signup page; Step 2: Enter valid email; Step 3: Enter password; Step 4: Click Sign Up,User account created successfully,High,Functional\\n\\nCreate comprehensive test cases covering:\\n- Functional testing\\n- Edge cases\\n- Negative testing\\n- UI/UX validation\\n\\nReturn ONLY the CSV content with header row, no additional commentary.",
+        "options": {
+          "systemMessage": "You are a senior QA engineer specialized in creating detailed test cases. Generate comprehensive CSV test case documentation.",
+          "maxIterations": 5
+        }
+      },
+      "id": "e495638d-8146-4d4c-96ce-fce72e098a61",
+      "name": "Generate Test Cases",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        672,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "output",
+        "binaryPropertyName": "test_cases",
+        "options": {
+          "fileName": "test_cases.csv"
+        }
+      },
+      "id": "1e41855f-d5d4-4f82-a0fd-047c0d2a31f8",
+      "name": "Create test_cases.csv",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1024,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=You are a senior QA automation engineer. Based on the following PRD content, create Playwright test scripts in Markdown format.\\n\\nPRD Content:\\n{{ $(\"Extract PDF Content\").item.json.data }}\\n\\nGenerate Playwright test scripts covering all features. Use this structure:\\n\\n```javascript\\nimport { test, expect } from '@playwright/test';\\n\\ntest.describe('Feature Name', () => {\\n  test('test scenario', async ({ page }) => {\\n    // test steps\\n  });\\n});\\n```\\n\\nCreate comprehensive automated tests for:\\n- User flows\\n- Form validations\\n- API interactions\\n- UI element verification\\n\\nReturn the content as a Markdown document with code blocks. Include setup instructions and best practices.",
+        "options": {
+          "systemMessage": "You are a senior QA automation engineer specialized in Playwright. Generate production-ready test automation scripts.",
+          "maxIterations": 5
+        }
+      },
+      "id": "ce1b3aae-0492-451c-a335-7ab8d1c3441d",
+      "name": "Generate Playwright Scripts",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        672,
+        592
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "toText",
+        "sourceProperty": "output",
+        "binaryPropertyName": "playwright_scripts",
+        "options": {
+          "fileName": "playwright_test_cases.md"
+        }
+      },
+      "id": "e534f1f1-6310-4029-8676-eedbbfc3b82d",
+      "name": "Create playwright_test_cases.md",
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1024,
+        592
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Collect all generated files\nconst items = $input.all();\nconst files = [];\n\nfor (const item of items) {\n  if (item.json.test_plan) {\n    files.push('✅ test_plan.md');\n  }\n  if (item.json.test_cases) {\n    files.push('✅ test_cases.csv');\n  }\n  if (item.json.playwright_scripts) {\n    files.push('✅ playwright_test_cases.md');\n  }\n}\n\nreturn [{\n  json: {\n    output: `Successfully generated all test artifacts:\\n\\n${files.join('\\n')}\\n\\nAll files are ready for download.`\n  }\n}];"
+      },
+      "id": "d1eb542e-f8f0-4781-b8ec-7995b3717655",
+      "name": "Format Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1472,
+        400
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "50f38346-38cc-48da-8181-c4ae254dae84",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        400
+      ]
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:/Users/Naveen Kumar N/OneDrive/Documents/Product Requirements Document (PRD) VWO.com.pdf",
+        "options": {
+          "dataPropertyName": "data"
+        }
+      },
+      "id": "16faecee-9050-421e-ae81-279fdf4327eb",
+      "name": "Read PDF File",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        224,
+        400
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Extract PDF Content": {
+      "main": [
+        [
+          {
+            "node": "Generate Test Plan",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Generate Test Cases",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Generate Playwright Scripts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Test Plan": {
+      "main": [
+        [
+          {
+            "node": "Create test_plan.md",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Groq Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Generate Test Plan",
+            "type": "ai_languageModel",
+            "index": 0
+          },
+          {
+            "node": "Generate Test Cases",
+            "type": "ai_languageModel",
+            "index": 0
+          },
+          {
+            "node": "Generate Playwright Scripts",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create test_plan.md": {
+      "main": [
+        [
+          {
+            "node": "Combine All Files",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Combine All Files": {
+      "main": [
+        [
+          {
+            "node": "Format Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Test Cases": {
+      "main": [
+        [
+          {
+            "node": "Create test_cases.csv",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create test_cases.csv": {
+      "main": [
+        [
+          {
+            "node": "Combine All Files",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Generate Playwright Scripts": {
+      "main": [
+        [
+          {
+            "node": "Create playwright_test_cases.md",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create playwright_test_cases.md": {
+      "main": [
+        [
+          {
+            "node": "Combine All Files",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Read PDF File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read PDF File": {
+      "main": [
+        [
+          {
+            "node": "Extract PDF Content",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "4a2bc2c5-8f72-408b-9f31-42ad9ffdfaeb",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "eff6d285246ddc4f45698137ca381b290113c08d778f792be7cba14db595158d"
+  },
+  "nodeGroups": [],
+  "id": "gkyYdBtpYA5LBPLr",
+  "tags": [
+    {
+      "updatedAt": "2026-06-13T12:54:29.695Z",
+      "createdAt": "2026-06-13T12:54:29.695Z",
+      "id": "whoeXP7QNtj5pdhy",
+      "name": "AIAgent1"
+    }
+  ]
+}
