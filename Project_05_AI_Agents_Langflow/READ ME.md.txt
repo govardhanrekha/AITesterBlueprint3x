@@ -1,0 +1,162 @@
+# 🤖 AI QA Agents using Langflow
+
+## 📌 Project Status
+
+**Current Phase:** Langflow Agent Development ✅
+
+This repository contains six AI-powered Quality Assurance agents designed and developed using **Langflow**. Each agent is focused on solving a specific QA task by leveraging Large Language Models (LLMs) through prompt engineering and workflow orchestration.
+
+The current implementation includes the Langflow workflows only. A web-based user interface and backend integration will be developed in the next phase.
+
+---
+
+# 🎯 Project Objective
+
+The objective of this project is to explore how AI can enhance Software Testing by automating common QA activities such as bug analysis, test planning, and test case generation using Langflow.
+
+---
+
+# 🚀 AI Agents Developed
+
+## 1. Root Cause Analysis (RCA) Agent
+Analyzes software defects and predicts the most probable root cause based on the bug description.
+
+### Capabilities
+- Root cause prediction
+- Impact analysis
+- Investigation recommendations
+
+---
+
+## 2. Flaky Test Analyzer
+Identifies unstable or intermittent automated test failures and suggests possible reasons.
+
+### Capabilities
+- Flaky test detection
+- Failure pattern analysis
+- Stabilization recommendations
+
+---
+
+## 3. Bug Triage Agent
+Automatically analyzes bug reports and recommends classification details.
+
+### Capabilities
+- Severity prediction
+- Priority recommendation
+- Risk assessment
+- Suggested labels
+
+---
+
+## 4. Test Plan Generator
+Generates a structured software test plan from project requirements.
+
+### Capabilities
+- Test scope
+- Objectives
+- Test strategy
+- Entry and Exit criteria
+- Risks and Deliverables
+
+---
+
+## 5. Test Case Generator
+Creates comprehensive manual test cases from user stories or requirements.
+
+### Capabilities
+- Positive test cases
+- Negative test cases
+- Boundary value scenarios
+- Expected results
+
+---
+
+## 6. AI QA Assistant
+A general-purpose QA assistant capable of answering software testing-related questions.
+
+### Capabilities
+- Testing concepts
+- SDLC & STLC guidance
+- Agile testing support
+- API testing assistance
+- QA best practices
+
+---
+
+# 🛠 Technology Stack
+
+- Langflow
+- Large Language Models (LLMs)
+- Prompt Engineering
+- JSON Workflow Configuration
+
+---
+
+# 📂 Repository Structure
+
+```
+AI-QA-Agents/
+│
+├── langflow/
+│   ├── RCA_Agent.json
+│   ├── Flaky_Test_Analyzer.json
+│   ├── Bug_Triage_Agent.json
+│   ├── Test_Plan_Generator.json
+│   ├── Test_Case_Generator.json
+│   └── AI_QA_Assistant.json
+│
+└── README.md
+```
+
+---
+
+# 🔄 Development Roadmap
+
+### Phase 1 ✅
+- Design AI agent workflows
+- Create prompts
+- Build six Langflow agents
+- Validate individual agent outputs
+
+### Phase 2 (Planned)
+- Develop Python backend
+- Integrate Langflow APIs
+- Build Streamlit web application
+- Add input/output interface
+- Export reports
+
+### Phase 3 (Future Enhancements)
+- Jira Integration
+- Azure DevOps Integration
+- Authentication
+- PDF & Excel Export
+- Multi-LLM Support
+- RAG-based Knowledge Base
+
+---
+
+# 📈 Learning Outcomes
+
+This project demonstrates practical experience with:
+
+- Langflow Workflow Design
+- Prompt Engineering
+- AI-powered Quality Engineering
+- Large Language Models (LLMs)
+- Software Testing Automation Concepts
+
+---
+
+# 👩‍💻 Author
+
+**Rekha Govardhan**
+
+Senior Software Test Engineer
+
+11+ Years of Experience in Software Testing
+
+Interested in AI-powered Quality Engineering and Test Automation
+
+---
+

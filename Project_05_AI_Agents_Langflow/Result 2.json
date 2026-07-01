@@ -1,0 +1,40 @@
+{
+  "execution_id": "RUN_002",
+  "execution_date": "2026-06-29T11:30:00Z",
+  "application": "Online Banking",
+  "environment": {
+    "browser": "Chrome 138",
+    "os": "Windows 11",
+    "build": "v2.5.0"
+  },
+  "test_results": [
+    {
+      "test_id": "TC001",
+      "test_name": "Login with Valid Credentials",
+      "status": "PASS",
+      "execution_time_seconds": 8.1,
+      "error_message": ""
+    },
+    {
+      "test_id": "TC002",
+      "test_name": "Fund Transfer Between Accounts",
+      "status": "PASS",
+      "execution_time_seconds": 15.4,
+      "error_message": ""
+    },
+    {
+      "test_id": "TC003",
+      "test_name": "Account Statement Download",
+      "status": "PASS",
+      "execution_time_seconds": 6.5,
+      "error_message": ""
+    },
+    {
+      "test_id": "TC004",
+      "test_name": "Beneficiary Addition",
+      "status": "FAIL",
+      "execution_time_seconds": 13.1,
+      "error_message": "ElementClickInterceptedException: Save button blocked by loading overlay."
+    }
+  ]
+}
