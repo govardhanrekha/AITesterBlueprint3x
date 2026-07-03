@@ -155,8 +155,6 @@ You can read it linearly (chapter 01 → 02) or jump straight to a project:
 
 ---
 
-Made by [Pramod Dutta](https://thetestingacademy.com/) for The Testing Academy.
-=======
 # Test Strategy Generator
 
 This project generates a Markdown test strategy document from Jira issue data and includes a React UI for previewing and downloading the generated output.
