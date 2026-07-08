@@ -1,219 +1,463 @@
-<<<<<<< HEAD
-# AI Tester Blueprint 3.x
+# Hi, I'm Rekha Govardhan 👋
 
-A practical, project-driven curriculum for QA engineers learning to use LLMs as a real testing tool — not a toy.
-Each chapter pairs concept material with a hands-on project, a prompt template, and runnable code where applicable.
+## Senior QA Engineer | AI QA Engineer | 
 
-- **Author:** Pramod Dutta — Principal SDET
-- **Website:** [The Testing Academy](https://thetestingacademy.com/)
-- **LinkedIn:** [linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta/)
+![Profile Views](https://komarev.com/ghpvc/?username=govardhanrekha)
 
 ---
 
-## Repository Layout
+## 👩‍💻 About Me
+
+I am a **Software QA Engineer with 11+ years of experience** specializing in:
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing
+- Banking & Financial Services Domain
+- Test Automation Frameworks
+- AI-powered Quality Engineering
+
+I have extensive experience working in enterprise environments across the **BFSI domain**, validating critical applications with strong focus on quality, reliability, and customer experience.
+
+Currently, I am expanding my expertise into **AI Engineering and AI-powered Quality Engineering**, building practical solutions using:
+
+- Retrieval Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents
+- Workflow Automation
+- Low-code AI Platforms
+
+---
+
+# 🚀 Current Focus
+
+I am currently building AI-powered solutions that combine my QA expertise with Generative AI.
+
+My focus areas:
+
+✅ AI for Software Testing  
+✅ LLM-based Test Automation  
+✅ RAG Applications  
+✅ AI Agents for QA Activities  
+✅ Intelligent Test Case Generation  
+✅ Requirement Analysis Automation  
+✅ Defect Analysis using AI  
+✅ Workflow Automation using n8n  
+
+---
+
+# 💼 Professional Experience
+
+## Senior QA Engineer
+
+### Experience: 11+ Years
+
+### Domain Expertise
+
+🏦 Banking & Financial Services (BFSI)
+
+Experience working with:
+
+- Banking Applications
+- Financial Systems
+- Transaction Processing Systems
+- Fraud Management Applications
+- Enterprise Applications
+
+---
+
+# 🧪 Quality Engineering Skills
+
+## Manual Testing
+
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing (UAT)
+- Exploratory Testing
+- Test Planning
+- Test Strategy Creation
+- Test Case Design
+- Defect Management
+
+
+## API Testing
+
+Tools:
+
+- Postman
+- REST API Testing
+- REST Assured
+- Newman Reports
+
+Knowledge:
+
+- HTTP Methods
+- Request/Response Validation
+- JSON Validation
+- API Automation Framework Design
+
+
+## Automation Testing
+
+Experience with:
+
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Page Object Model
+- Hybrid Framework Concepts
+- CI/CD Testing Concepts
+
+
+## Database Testing
+
+- SQL Queries
+- Data Validation
+- Backend Testing
+- Test Data Management
+
+---
+
+# 🤖 AI & Generative AI Skills
+
+## Large Language Models (LLMs)
+
+Hands-on experience with:
+
+- Gemini
+- OpenAI Models
+- Ollama Local LLMs
+- Prompt Engineering
+- Context Engineering
+
+
+## Retrieval Augmented Generation (RAG)
+
+Built RAG applications using:
+
+- n8n
+- Supabase Vector Database
+- pgvector
+- Embeddings
+- Vector Search
+- Semantic Retrieval
+
+
+Understanding:
+
+- Document ingestion
+- Text chunking
+- Embedding generation
+- Similarity search
+- Context retrieval
+- Prompt-based generation
+
+
+## AI Agents
+
+Built AI-powered QA agents for:
+
+- Test Case Generation
+- Test Plan Generation
+- Bug Triage
+- Root Cause Analysis
+- Flaky Test Analysis
+
+
+Tools:
+
+- Langflow
+- n8n
+- AI Agent Frameworks
+
+---
+
+# 🏗️ Featured AI Projects
+
+---
+
+# 📚 RAG Chatbot using n8n + Supabase + Gemini
+
+Repository:
+`rag-chatbot-n8n-supabase-gemini`
+
+## Description
+
+A complete Retrieval Augmented Generation application that allows users to upload documents and interact with them using natural language.
+
+## Features
+
+✅ PDF/TXT ingestion  
+✅ Document chunking  
+✅ Embedding generation  
+✅ Vector database storage  
+✅ Semantic search  
+✅ Context-aware answers  
+✅ AI Chat interface  
+
+
+Architecture:
 
 ```
-.
-├── chapter_01_LLM_Basics/         How transformers and attention work
-│   ├── attention_interactive.html
-│   ├── attention_is_all_you_need.html
-│   └── Notes.md
-│
-└── chapter_02_Prompt_Eng/         Prompt engineering for QA work
-    ├── Anti_Hallucinations_Rules.md
-    ├── Project1_TC_Gen/           Test case generation from a PRD/API doc
-    │   ├── RICE-POT-TestCase-Prompt.md
-    │   ├── RICE_POT_FRAMEWORK/
-    │   ├── Restful-booker.pdf
-    │   ├── Restful_Booker_API_Test_Cases.md
-    │   └── output/
-    ├── Project2_Selenium_Framework/   POM-based Selenium framework built from a prompt
-    │   ├── Problem.md
-    │   ├── SKILL.md                   RICE-POT prompt-builder skill
-    │   ├── blank-template-rice-pot.md
-    │   └── AdvanceSeleniumFramework/  Maven + TestNG + Selenium 4
-    └── templates/                 Reusable prompt templates (RTCFR / RICE-POT)
-        ├── 01_TestCaseGeneration_Prompt.md
-        ├── 02_TestCases_from_prd
-        ├── 03_API_Test_Generation.md
-        ├── 04_Negative_TC_Only.md
-        ├── 05_Secuirty_Test.md
-        └── 06_Regression_Suite.md
+Document Upload
+
+      ↓
+
+Text Extraction
+
+      ↓
+
+Chunking
+
+      ↓
+
+Embeddings
+
+      ↓
+
+Vector Database
+
+      ↓
+
+Similarity Search
+
+      ↓
+
+LLM Response
+```
+
+
+Technologies:
+
+- n8n
+- Gemini
+- Supabase
+- pgvector
+- RAG
+- Vector Search
+
+---
+
+# 🤖 AI QA Testing Platform
+
+Repository:
+`ai-powered-test-automation-framework`
+
+## Description
+
+An AI-powered testing assistant platform designed to accelerate software testing activities.
+
+Capabilities:
+
+✅ AI Test Case Generator
+
+✅ AI Test Plan Generator
+
+✅ Bug Analysis Assistant
+
+✅ Root Cause Analysis Agent
+
+✅ Flaky Test Analyzer
+
+
+Technologies:
+
+- Python
+- Langflow
+- LLMs
+- Selenium
+- AI Agents
+
+---
+
+# 🧠 AI QA Agents using Langflow
+
+Repository:
+`ai-qa-agents-langflow`
+
+Built multiple AI agents:
+
+## Test Case Generator Agent
+
+Automatically creates structured test cases from requirements.
+
+
+## Bug Triage Agent
+
+Analyzes defects and helps categorize issues.
+
+
+## RCA Agent
+
+Assists in identifying possible root causes.
+
+
+## Flaky Test Analyzer
+
+Analyzes unstable automation failures.
+
+---
+
+# 🔌 API Automation Framework
+
+Repository:
+`rest-api-automation-framework`
+
+Features:
+
+- REST API Automation
+- Rest Assured
+- Java
+- TestNG
+- Maven
+- JSON Validation
+- Reporting
+
+---
+
+# 🛠️ Technology Stack
+
+## Testing
+
+```
+Manual Testing
+Functional Testing
+Regression Testing
+UAT
+API Testing
+Automation Testing
+```
+
+## Programming
+
+```
+Java
+Python
+SQL
+```
+
+## Automation Tools
+
+```
+Selenium
+TestNG
+Maven
+Postman
+Rest Assured
+```
+
+## AI Technologies
+
+```
+RAG
+LLM
+Prompt Engineering
+AI Agents
+Embeddings
+Vector Databases
+n8n
+Langflow
+Gemini
+Ollama
+```
+
+## Cloud & Tools
+
+```
+Git
+GitHub
+VS Code
+Supabase
+JIRA
+ALM
 ```
 
 ---
 
-## Chapter 01 — LLM Basics
+# 📚 Recent Learning Journey
 
-Foundational material on how Large Language Models read text and decide what to output. The key idea: a model is not a database lookup — it weighs every token against every other token (attention) and predicts the next one.
+Currently strengthening skills in:
 
-**What's here:**
-- `attention_is_all_you_need.html` — interactive walkthrough of the original Transformer paper concepts.
-- `attention_interactive.html` — visualises self-attention so you can see why prompt phrasing changes outputs.
-- `Notes.md` — short recap notes.
+## Generative AI
 
-**Why a QA engineer should care:** the model's behaviour is deterministic-ish on a per-token level, but every word you add to a prompt shifts the attention weights. That is why structured prompt frameworks (next chapter) outperform free-form questions.
+- LLM Fundamentals
+- Prompt Engineering
+- RAG Architecture
+- AI Agent Design
 
-Open the HTML files locally in any browser — no build step.
+
+## AI Testing
+
+- LLM Testing
+- AI Quality Engineering
+- AI Evaluation
+- Test Automation with AI
+
+
+## Automation & Integration
+
+- n8n Workflow Automation
+- API Integrations
+- AI-powered workflows
+
 
 ---
 
-## Chapter 02 — Prompt Engineering for QA
+# 🎯 Career Objective
 
-This chapter turns prompt engineering into a repeatable QA skill. Three pillars:
+I am looking for opportunities where I can combine:
 
-1. **Anti-hallucination rules** — guardrails so the model only uses provided input.
-2. **RICE-POT framework** — a structured prompt template (Role, Instructions, Context, Example, Parameters, Output, Tone).
-3. **Two projects + six templates** — applied on real artifacts (a PRD-style API doc and a Selenium framework build).
+```
+11+ Years QA Experience
 
-### Anti-Hallucination Rules (`Anti_Hallucinations_Rules.md`)
++
 
-A drop-in `ROLE` block you prepend to any QA prompt. Forces the model to:
-- Use only the inputs you provide (PRD, screenshots, API docs).
-- Refuse to assume "typical" system behaviour.
-- Output exactly `"Insufficient information to determine."` when an input is missing.
-- Label inferred details as `"Inference (low confidence)"`.
-- Produce a Verified Facts / Missing Info / Output / Self-Validation block.
+Software Testing Expertise
 
-Use this on every factual-generation prompt in this repo.
++
 
-### Project 1 — Test Case Generation with RICE-POT
+Generative AI Skills
 
-Goal: turn an API PDF (`Restful-booker.pdf`) into a CSV of enterprise-grade test cases.
++
 
-- `RICE-POT-TestCase-Prompt.md` — the worked prompt. Targets `app.vwo.com` as the example product, but the structure transfers to any PRD/API doc.
-- `RICE_POT_FRAMEWORK/RICE_POT.md` — explanation of each letter of the framework.
-- `Restful-booker.pdf` + `Restful_Booker_API_Test_Cases.md` — input PDF and the generated test-case set.
-- `output/deepseek_csv_20260524_0d9b7c.csv` — actual model output produced from the prompt.
+Automation Knowledge
 
-**How to exercise it:**
-1. Open `RICE-POT-TestCase-Prompt.md` in any AI tool (ChatGPT, Claude, Gemini, DeepSeek).
-2. Attach `Restful-booker.pdf` (or your own PRD).
-3. Confirm the output is CSV only, columns match the spec, and every test case traces back to the PDF.
-
-### Project 2 — Selenium Framework from a Prompt
-
-Goal: prove RICE-POT can build production code, not just test cases.
-
-- `Problem.md` — the brief: "generate a Selenium framework from scratch with two page objects, production ready."
-- `SKILL.md` — the RICE-POT prompt-builder skill definition. Tells the AI how to interview you, assemble the prompt, and deliver it copy-pasteable.
-- `blank-template-rice-pot.md` — fill-in template with the recommended anti-hallucination Parameters block.
-- `AdvanceSeleniumFramework/` — the actual output the framework generates:
-  - Maven project, Java 11, Selenium 4.25, TestNG 7.10.
-  - `LoginPage.java` — PageFactory POM with explicit waits, fluent API, no Thread.sleep.
-  - `BaseTest.java` — driver lifecycle.
-  - `ConfigReader.java` — `config.properties` loader.
-  - `ValidLoginTest.java` / `InvalidLoginTest.java` — positive + negative TestNG cases.
-  - `testng.xml` / `testng-smoke.xml` — full and smoke suites.
-
-**Run it:**
-```bash
-cd chapter_02_Prompt_Eng/Project2_Selenium_Framework/AdvanceSeleniumFramework
-mvn -q clean test-compile
-mvn test                       # full suite
-mvn test -DsuiteXmlFile=testng-smoke.xml   # smoke only
 ```
 
-### Templates — RTCFR + RICE-POT (`templates/`)
-
-Six copy-paste prompt templates for the most common QA tasks. Each follows the **RTCFR** shape — Role, Task, Constraints, Format, Requirements — which is the lightweight cousin of RICE-POT.
-
-| # | File | Purpose |
-|---|------|---------|
-| 01 | `01_TestCaseGeneration_Prompt.md` | Basic test-case generation from free-form requirements. |
-| 02 | `02_TestCases_from_prd` | Comprehensive PRD → test cases (functional, negative, boundary, edge). |
-| 03 | `03_API_Test_Generation.md` | API endpoint test cases from API docs. |
-| 04 | `04_Negative_TC_Only.md` | Negative-only suite — invalid inputs, auth violations, malformed data. |
-| 05 | `05_Secuirty_Test.md` | OWASP-top-10-aligned security test cases. |
-| 06 | `06_Regression_Suite.md` | Regression suite for a module with execution-time estimates. |
-
-**Use any template:**
-1. Open the file and copy the fenced block.
-2. Replace `[FEATURE]` / `[PASTE REQUIREMENTS]` / `[PASTE PRD]` etc. with your input.
-3. Paste into your AI tool. Keep the `CONSTRAINTS` block intact — that's what stops hallucination.
+to build intelligent, scalable, and high-quality software solutions.
 
 ---
 
-## How to Use This Repo
+# 📫 Connect With Me
 
-You can read it linearly (chapter 01 → 02) or jump straight to a project:
+LinkedIn:
+www.linkedin.com/in/rekha-govardhanan-345732a3
 
-- **"I want better test cases now."** → `chapter_02_Prompt_Eng/templates/01_TestCaseGeneration_Prompt.md` or `02_TestCases_from_prd`.
-- **"I want to write tests from a PDF/API doc."** → `chapter_02_Prompt_Eng/Project1_TC_Gen/`.
-- **"I want to scaffold a Selenium project."** → `chapter_02_Prompt_Eng/Project2_Selenium_Framework/SKILL.md`, then run the Maven project under `AdvanceSeleniumFramework/`.
-- **"I want my model to stop making things up."** → `chapter_02_Prompt_Eng/Anti_Hallucinations_Rules.md`.
+GitHub:
+https://github.com/govardhanrekha
 
-## Requirements
-
-- Any modern LLM (Claude / GPT / Gemini / DeepSeek). No specific provider required.
-- For Project 2 only: **JDK 11+** and **Maven 3.9+** to compile and run the Selenium framework.
-
-## Previous Chapters
-
-`a2eb280` — chapter 01 LLM basics with interactive attention visualisations.
-`dfe2653` — chapter 02 prompt engineering with RICE-POT framework + Selenium project.
 
 ---
 
-# Test Strategy Generator
+# ⭐ Featured Skills
 
-This project generates a Markdown test strategy document from Jira issue data and includes a React UI for previewing and downloading the generated output.
+```
+Software Quality Engineering
+AI Testing
+Generative AI
+RAG Applications
+LLM Applications
+API Automation
+Test Automation
+BFSI Testing
+AI Agents
+n8n Automation
+```
 
-## Structure
-- `tools/`: Python scripts for Jira fetching and Markdown generation
-- `ui/`: React app scaffold with dark/light mode support
-- `gemini.md`: Project constitution, schemas, and behavioral rules
-- `task_Strategy.md`: BLAST blueprint and checklist
-- `progress.md`: Project progress tracking
+---
 
-## Setup
-### Python tools
-1. Copy `.env.example` to `.env` and populate Jira credentials.
-2. Install tooling:
-   ```bash
-   python -m pip install -r tools/requirements.txt
-   ```
-3. Generate a Markdown strategy from Jira:
-   ```bash
-   python tools/generate_strategy.py ABC-123 --output output/ABC-123-test-strategy.md
-   ```
-
-### React UI
-1. Change directory to `ui`:
-   ```bash
-   cd ui
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Copy Jira environment values into `ui/.env.example` or set them in your shell.
-4. Run the local backend server and Vite together:
-   ```bash
-   npm run dev
-   ```
-5. Open the application in the browser at the local Vite address.
-6. Build for deployment:
-   ```bash
-   npm run build
-   ```
-
-### Jira backend
-- The React app calls `/api/generate` to fetch Jira issue details and return Markdown.
-- Local server code lives in `ui/server.js`.
-- Vercel serverless function code lives in `ui/api/generate.js`.
-
-### Vercel deployment
-- Deploy the `ui` folder as a separate Vercel project.
-- A Vercel configuration file is available at `ui/vercel.json`.
-- Set `JIRA_BASE_URL`, `JIRA_EMAIL`, and `JIRA_API_TOKEN` in Vercel environment variables.
-- The built app uses `/api/generate` for Jira-backed Markdown preview.
-- Vercel will build the frontend with `@vercel/static-build` and deploy the `/api` folder as serverless functions.
-
-**Note:** See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md) for step-by-step instructions using GitHub + Vercel web UI (recommended if CLI device auth has issues).
-
-## Notes
-- The UI currently generates Markdown locally from entered Jira issue fields.
-- Jira REST connectivity is implemented through `tools/jira_fetch.py`.
-- Vercel deployment can use the `ui` folder as a static site.
->>>>>>> b5c08dd5b357d39eb0cba1a396df46fb2d9afdb7
+## "Quality Engineering powered by Artificial Intelligence 🚀"
