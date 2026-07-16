@@ -1,0 +1,1001 @@
+TestCase_ID,Application,Module,Test_Scenario,Test_Steps_Summary,Expected_Result,Priority,Test_Type,Scenario_Type
+TC_0001,E-Commerce,Login,Verify Login functionality scenario 1,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0002,E-Commerce,Registration,Verify Registration functionality scenario 2,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0003,E-Commerce,Dashboard,Verify Dashboard functionality scenario 3,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0004,E-Commerce,Search,Verify Search functionality scenario 4,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0005,E-Commerce,Product Details,Verify Product Details functionality scenario 5,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0006,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 6,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0007,E-Commerce,Wishlist,Verify Wishlist functionality scenario 7,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0008,E-Commerce,Checkout,Verify Checkout functionality scenario 8,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0009,E-Commerce,Payment,Verify Payment functionality scenario 9,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0010,E-Commerce,Order Management,Verify Order Management functionality scenario 10,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0011,E-Commerce,Login,Verify Login functionality scenario 11,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0012,E-Commerce,Registration,Verify Registration functionality scenario 12,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0013,E-Commerce,Dashboard,Verify Dashboard functionality scenario 13,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0014,E-Commerce,Search,Verify Search functionality scenario 14,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0015,E-Commerce,Product Details,Verify Product Details functionality scenario 15,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0016,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 16,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0017,E-Commerce,Wishlist,Verify Wishlist functionality scenario 17,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0018,E-Commerce,Checkout,Verify Checkout functionality scenario 18,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0019,E-Commerce,Payment,Verify Payment functionality scenario 19,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0020,E-Commerce,Order Management,Verify Order Management functionality scenario 20,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0021,E-Commerce,Login,Verify Login functionality scenario 21,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0022,E-Commerce,Registration,Verify Registration functionality scenario 22,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0023,E-Commerce,Dashboard,Verify Dashboard functionality scenario 23,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0024,E-Commerce,Search,Verify Search functionality scenario 24,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0025,E-Commerce,Product Details,Verify Product Details functionality scenario 25,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0026,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 26,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0027,E-Commerce,Wishlist,Verify Wishlist functionality scenario 27,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0028,E-Commerce,Checkout,Verify Checkout functionality scenario 28,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0029,E-Commerce,Payment,Verify Payment functionality scenario 29,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0030,E-Commerce,Order Management,Verify Order Management functionality scenario 30,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0031,E-Commerce,Login,Verify Login functionality scenario 31,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0032,E-Commerce,Registration,Verify Registration functionality scenario 32,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0033,E-Commerce,Dashboard,Verify Dashboard functionality scenario 33,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0034,E-Commerce,Search,Verify Search functionality scenario 34,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0035,E-Commerce,Product Details,Verify Product Details functionality scenario 35,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0036,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 36,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0037,E-Commerce,Wishlist,Verify Wishlist functionality scenario 37,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0038,E-Commerce,Checkout,Verify Checkout functionality scenario 38,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0039,E-Commerce,Payment,Verify Payment functionality scenario 39,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0040,E-Commerce,Order Management,Verify Order Management functionality scenario 40,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0041,E-Commerce,Login,Verify Login functionality scenario 41,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0042,E-Commerce,Registration,Verify Registration functionality scenario 42,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0043,E-Commerce,Dashboard,Verify Dashboard functionality scenario 43,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0044,E-Commerce,Search,Verify Search functionality scenario 44,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0045,E-Commerce,Product Details,Verify Product Details functionality scenario 45,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0046,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 46,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0047,E-Commerce,Wishlist,Verify Wishlist functionality scenario 47,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0048,E-Commerce,Checkout,Verify Checkout functionality scenario 48,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0049,E-Commerce,Payment,Verify Payment functionality scenario 49,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0050,E-Commerce,Order Management,Verify Order Management functionality scenario 50,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0051,E-Commerce,Login,Verify Login functionality scenario 51,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0052,E-Commerce,Registration,Verify Registration functionality scenario 52,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0053,E-Commerce,Dashboard,Verify Dashboard functionality scenario 53,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0054,E-Commerce,Search,Verify Search functionality scenario 54,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0055,E-Commerce,Product Details,Verify Product Details functionality scenario 55,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0056,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 56,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0057,E-Commerce,Wishlist,Verify Wishlist functionality scenario 57,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0058,E-Commerce,Checkout,Verify Checkout functionality scenario 58,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0059,E-Commerce,Payment,Verify Payment functionality scenario 59,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0060,E-Commerce,Order Management,Verify Order Management functionality scenario 60,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0061,E-Commerce,Login,Verify Login functionality scenario 61,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0062,E-Commerce,Registration,Verify Registration functionality scenario 62,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0063,E-Commerce,Dashboard,Verify Dashboard functionality scenario 63,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0064,E-Commerce,Search,Verify Search functionality scenario 64,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0065,E-Commerce,Product Details,Verify Product Details functionality scenario 65,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0066,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 66,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0067,E-Commerce,Wishlist,Verify Wishlist functionality scenario 67,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0068,E-Commerce,Checkout,Verify Checkout functionality scenario 68,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0069,E-Commerce,Payment,Verify Payment functionality scenario 69,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0070,E-Commerce,Order Management,Verify Order Management functionality scenario 70,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0071,E-Commerce,Login,Verify Login functionality scenario 71,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0072,E-Commerce,Registration,Verify Registration functionality scenario 72,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0073,E-Commerce,Dashboard,Verify Dashboard functionality scenario 73,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0074,E-Commerce,Search,Verify Search functionality scenario 74,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0075,E-Commerce,Product Details,Verify Product Details functionality scenario 75,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0076,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 76,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0077,E-Commerce,Wishlist,Verify Wishlist functionality scenario 77,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0078,E-Commerce,Checkout,Verify Checkout functionality scenario 78,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0079,E-Commerce,Payment,Verify Payment functionality scenario 79,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0080,E-Commerce,Order Management,Verify Order Management functionality scenario 80,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0081,E-Commerce,Login,Verify Login functionality scenario 81,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0082,E-Commerce,Registration,Verify Registration functionality scenario 82,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0083,E-Commerce,Dashboard,Verify Dashboard functionality scenario 83,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0084,E-Commerce,Search,Verify Search functionality scenario 84,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0085,E-Commerce,Product Details,Verify Product Details functionality scenario 85,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0086,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 86,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0087,E-Commerce,Wishlist,Verify Wishlist functionality scenario 87,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0088,E-Commerce,Checkout,Verify Checkout functionality scenario 88,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0089,E-Commerce,Payment,Verify Payment functionality scenario 89,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0090,E-Commerce,Order Management,Verify Order Management functionality scenario 90,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0091,E-Commerce,Login,Verify Login functionality scenario 91,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0092,E-Commerce,Registration,Verify Registration functionality scenario 92,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0093,E-Commerce,Dashboard,Verify Dashboard functionality scenario 93,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0094,E-Commerce,Search,Verify Search functionality scenario 94,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0095,E-Commerce,Product Details,Verify Product Details functionality scenario 95,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0096,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 96,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0097,E-Commerce,Wishlist,Verify Wishlist functionality scenario 97,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0098,E-Commerce,Checkout,Verify Checkout functionality scenario 98,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0099,E-Commerce,Payment,Verify Payment functionality scenario 99,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0100,E-Commerce,Order Management,Verify Order Management functionality scenario 100,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0101,E-Commerce,Login,Verify Login functionality scenario 101,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0102,E-Commerce,Registration,Verify Registration functionality scenario 102,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0103,E-Commerce,Dashboard,Verify Dashboard functionality scenario 103,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0104,E-Commerce,Search,Verify Search functionality scenario 104,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0105,E-Commerce,Product Details,Verify Product Details functionality scenario 105,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0106,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 106,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0107,E-Commerce,Wishlist,Verify Wishlist functionality scenario 107,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0108,E-Commerce,Checkout,Verify Checkout functionality scenario 108,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0109,E-Commerce,Payment,Verify Payment functionality scenario 109,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0110,E-Commerce,Order Management,Verify Order Management functionality scenario 110,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0111,E-Commerce,Login,Verify Login functionality scenario 111,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0112,E-Commerce,Registration,Verify Registration functionality scenario 112,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0113,E-Commerce,Dashboard,Verify Dashboard functionality scenario 113,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0114,E-Commerce,Search,Verify Search functionality scenario 114,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0115,E-Commerce,Product Details,Verify Product Details functionality scenario 115,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0116,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 116,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0117,E-Commerce,Wishlist,Verify Wishlist functionality scenario 117,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0118,E-Commerce,Checkout,Verify Checkout functionality scenario 118,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0119,E-Commerce,Payment,Verify Payment functionality scenario 119,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0120,E-Commerce,Order Management,Verify Order Management functionality scenario 120,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0121,E-Commerce,Login,Verify Login functionality scenario 121,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0122,E-Commerce,Registration,Verify Registration functionality scenario 122,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0123,E-Commerce,Dashboard,Verify Dashboard functionality scenario 123,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0124,E-Commerce,Search,Verify Search functionality scenario 124,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0125,E-Commerce,Product Details,Verify Product Details functionality scenario 125,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0126,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 126,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0127,E-Commerce,Wishlist,Verify Wishlist functionality scenario 127,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0128,E-Commerce,Checkout,Verify Checkout functionality scenario 128,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0129,E-Commerce,Payment,Verify Payment functionality scenario 129,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0130,E-Commerce,Order Management,Verify Order Management functionality scenario 130,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0131,E-Commerce,Login,Verify Login functionality scenario 131,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0132,E-Commerce,Registration,Verify Registration functionality scenario 132,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0133,E-Commerce,Dashboard,Verify Dashboard functionality scenario 133,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0134,E-Commerce,Search,Verify Search functionality scenario 134,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0135,E-Commerce,Product Details,Verify Product Details functionality scenario 135,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0136,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 136,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0137,E-Commerce,Wishlist,Verify Wishlist functionality scenario 137,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0138,E-Commerce,Checkout,Verify Checkout functionality scenario 138,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0139,E-Commerce,Payment,Verify Payment functionality scenario 139,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0140,E-Commerce,Order Management,Verify Order Management functionality scenario 140,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0141,E-Commerce,Login,Verify Login functionality scenario 141,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0142,E-Commerce,Registration,Verify Registration functionality scenario 142,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0143,E-Commerce,Dashboard,Verify Dashboard functionality scenario 143,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0144,E-Commerce,Search,Verify Search functionality scenario 144,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0145,E-Commerce,Product Details,Verify Product Details functionality scenario 145,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0146,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 146,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0147,E-Commerce,Wishlist,Verify Wishlist functionality scenario 147,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0148,E-Commerce,Checkout,Verify Checkout functionality scenario 148,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0149,E-Commerce,Payment,Verify Payment functionality scenario 149,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0150,E-Commerce,Order Management,Verify Order Management functionality scenario 150,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0151,E-Commerce,Login,Verify Login functionality scenario 151,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0152,E-Commerce,Registration,Verify Registration functionality scenario 152,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0153,E-Commerce,Dashboard,Verify Dashboard functionality scenario 153,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0154,E-Commerce,Search,Verify Search functionality scenario 154,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0155,E-Commerce,Product Details,Verify Product Details functionality scenario 155,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0156,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 156,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0157,E-Commerce,Wishlist,Verify Wishlist functionality scenario 157,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0158,E-Commerce,Checkout,Verify Checkout functionality scenario 158,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0159,E-Commerce,Payment,Verify Payment functionality scenario 159,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0160,E-Commerce,Order Management,Verify Order Management functionality scenario 160,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0161,E-Commerce,Login,Verify Login functionality scenario 161,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0162,E-Commerce,Registration,Verify Registration functionality scenario 162,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0163,E-Commerce,Dashboard,Verify Dashboard functionality scenario 163,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0164,E-Commerce,Search,Verify Search functionality scenario 164,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0165,E-Commerce,Product Details,Verify Product Details functionality scenario 165,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0166,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 166,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0167,E-Commerce,Wishlist,Verify Wishlist functionality scenario 167,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0168,E-Commerce,Checkout,Verify Checkout functionality scenario 168,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0169,E-Commerce,Payment,Verify Payment functionality scenario 169,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0170,E-Commerce,Order Management,Verify Order Management functionality scenario 170,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0171,E-Commerce,Login,Verify Login functionality scenario 171,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0172,E-Commerce,Registration,Verify Registration functionality scenario 172,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0173,E-Commerce,Dashboard,Verify Dashboard functionality scenario 173,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0174,E-Commerce,Search,Verify Search functionality scenario 174,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0175,E-Commerce,Product Details,Verify Product Details functionality scenario 175,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0176,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 176,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0177,E-Commerce,Wishlist,Verify Wishlist functionality scenario 177,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0178,E-Commerce,Checkout,Verify Checkout functionality scenario 178,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0179,E-Commerce,Payment,Verify Payment functionality scenario 179,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0180,E-Commerce,Order Management,Verify Order Management functionality scenario 180,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0181,E-Commerce,Login,Verify Login functionality scenario 181,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0182,E-Commerce,Registration,Verify Registration functionality scenario 182,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0183,E-Commerce,Dashboard,Verify Dashboard functionality scenario 183,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0184,E-Commerce,Search,Verify Search functionality scenario 184,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0185,E-Commerce,Product Details,Verify Product Details functionality scenario 185,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0186,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 186,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0187,E-Commerce,Wishlist,Verify Wishlist functionality scenario 187,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0188,E-Commerce,Checkout,Verify Checkout functionality scenario 188,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0189,E-Commerce,Payment,Verify Payment functionality scenario 189,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0190,E-Commerce,Order Management,Verify Order Management functionality scenario 190,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0191,E-Commerce,Login,Verify Login functionality scenario 191,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0192,E-Commerce,Registration,Verify Registration functionality scenario 192,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0193,E-Commerce,Dashboard,Verify Dashboard functionality scenario 193,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0194,E-Commerce,Search,Verify Search functionality scenario 194,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0195,E-Commerce,Product Details,Verify Product Details functionality scenario 195,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0196,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 196,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0197,E-Commerce,Wishlist,Verify Wishlist functionality scenario 197,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0198,E-Commerce,Checkout,Verify Checkout functionality scenario 198,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0199,E-Commerce,Payment,Verify Payment functionality scenario 199,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0200,E-Commerce,Order Management,Verify Order Management functionality scenario 200,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0201,E-Commerce,Login,Verify Login functionality scenario 201,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0202,E-Commerce,Registration,Verify Registration functionality scenario 202,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0203,E-Commerce,Dashboard,Verify Dashboard functionality scenario 203,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0204,E-Commerce,Search,Verify Search functionality scenario 204,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0205,E-Commerce,Product Details,Verify Product Details functionality scenario 205,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0206,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 206,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0207,E-Commerce,Wishlist,Verify Wishlist functionality scenario 207,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0208,E-Commerce,Checkout,Verify Checkout functionality scenario 208,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0209,E-Commerce,Payment,Verify Payment functionality scenario 209,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0210,E-Commerce,Order Management,Verify Order Management functionality scenario 210,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0211,E-Commerce,Login,Verify Login functionality scenario 211,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0212,E-Commerce,Registration,Verify Registration functionality scenario 212,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0213,E-Commerce,Dashboard,Verify Dashboard functionality scenario 213,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0214,E-Commerce,Search,Verify Search functionality scenario 214,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0215,E-Commerce,Product Details,Verify Product Details functionality scenario 215,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0216,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 216,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0217,E-Commerce,Wishlist,Verify Wishlist functionality scenario 217,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0218,E-Commerce,Checkout,Verify Checkout functionality scenario 218,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0219,E-Commerce,Payment,Verify Payment functionality scenario 219,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0220,E-Commerce,Order Management,Verify Order Management functionality scenario 220,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0221,E-Commerce,Login,Verify Login functionality scenario 221,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0222,E-Commerce,Registration,Verify Registration functionality scenario 222,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0223,E-Commerce,Dashboard,Verify Dashboard functionality scenario 223,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0224,E-Commerce,Search,Verify Search functionality scenario 224,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0225,E-Commerce,Product Details,Verify Product Details functionality scenario 225,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0226,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 226,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0227,E-Commerce,Wishlist,Verify Wishlist functionality scenario 227,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0228,E-Commerce,Checkout,Verify Checkout functionality scenario 228,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0229,E-Commerce,Payment,Verify Payment functionality scenario 229,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0230,E-Commerce,Order Management,Verify Order Management functionality scenario 230,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0231,E-Commerce,Login,Verify Login functionality scenario 231,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0232,E-Commerce,Registration,Verify Registration functionality scenario 232,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0233,E-Commerce,Dashboard,Verify Dashboard functionality scenario 233,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0234,E-Commerce,Search,Verify Search functionality scenario 234,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0235,E-Commerce,Product Details,Verify Product Details functionality scenario 235,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0236,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 236,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0237,E-Commerce,Wishlist,Verify Wishlist functionality scenario 237,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0238,E-Commerce,Checkout,Verify Checkout functionality scenario 238,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0239,E-Commerce,Payment,Verify Payment functionality scenario 239,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0240,E-Commerce,Order Management,Verify Order Management functionality scenario 240,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0241,E-Commerce,Login,Verify Login functionality scenario 241,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0242,E-Commerce,Registration,Verify Registration functionality scenario 242,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0243,E-Commerce,Dashboard,Verify Dashboard functionality scenario 243,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0244,E-Commerce,Search,Verify Search functionality scenario 244,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0245,E-Commerce,Product Details,Verify Product Details functionality scenario 245,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0246,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 246,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0247,E-Commerce,Wishlist,Verify Wishlist functionality scenario 247,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0248,E-Commerce,Checkout,Verify Checkout functionality scenario 248,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0249,E-Commerce,Payment,Verify Payment functionality scenario 249,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0250,E-Commerce,Order Management,Verify Order Management functionality scenario 250,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0251,E-Commerce,Login,Verify Login functionality scenario 251,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0252,E-Commerce,Registration,Verify Registration functionality scenario 252,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0253,E-Commerce,Dashboard,Verify Dashboard functionality scenario 253,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0254,E-Commerce,Search,Verify Search functionality scenario 254,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0255,E-Commerce,Product Details,Verify Product Details functionality scenario 255,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0256,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 256,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0257,E-Commerce,Wishlist,Verify Wishlist functionality scenario 257,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0258,E-Commerce,Checkout,Verify Checkout functionality scenario 258,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0259,E-Commerce,Payment,Verify Payment functionality scenario 259,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0260,E-Commerce,Order Management,Verify Order Management functionality scenario 260,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0261,E-Commerce,Login,Verify Login functionality scenario 261,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0262,E-Commerce,Registration,Verify Registration functionality scenario 262,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0263,E-Commerce,Dashboard,Verify Dashboard functionality scenario 263,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0264,E-Commerce,Search,Verify Search functionality scenario 264,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0265,E-Commerce,Product Details,Verify Product Details functionality scenario 265,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0266,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 266,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0267,E-Commerce,Wishlist,Verify Wishlist functionality scenario 267,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0268,E-Commerce,Checkout,Verify Checkout functionality scenario 268,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0269,E-Commerce,Payment,Verify Payment functionality scenario 269,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0270,E-Commerce,Order Management,Verify Order Management functionality scenario 270,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0271,E-Commerce,Login,Verify Login functionality scenario 271,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0272,E-Commerce,Registration,Verify Registration functionality scenario 272,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0273,E-Commerce,Dashboard,Verify Dashboard functionality scenario 273,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0274,E-Commerce,Search,Verify Search functionality scenario 274,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0275,E-Commerce,Product Details,Verify Product Details functionality scenario 275,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0276,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 276,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0277,E-Commerce,Wishlist,Verify Wishlist functionality scenario 277,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0278,E-Commerce,Checkout,Verify Checkout functionality scenario 278,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0279,E-Commerce,Payment,Verify Payment functionality scenario 279,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0280,E-Commerce,Order Management,Verify Order Management functionality scenario 280,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0281,E-Commerce,Login,Verify Login functionality scenario 281,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0282,E-Commerce,Registration,Verify Registration functionality scenario 282,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0283,E-Commerce,Dashboard,Verify Dashboard functionality scenario 283,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0284,E-Commerce,Search,Verify Search functionality scenario 284,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0285,E-Commerce,Product Details,Verify Product Details functionality scenario 285,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0286,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 286,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0287,E-Commerce,Wishlist,Verify Wishlist functionality scenario 287,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0288,E-Commerce,Checkout,Verify Checkout functionality scenario 288,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0289,E-Commerce,Payment,Verify Payment functionality scenario 289,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0290,E-Commerce,Order Management,Verify Order Management functionality scenario 290,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0291,E-Commerce,Login,Verify Login functionality scenario 291,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0292,E-Commerce,Registration,Verify Registration functionality scenario 292,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0293,E-Commerce,Dashboard,Verify Dashboard functionality scenario 293,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0294,E-Commerce,Search,Verify Search functionality scenario 294,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0295,E-Commerce,Product Details,Verify Product Details functionality scenario 295,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0296,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 296,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0297,E-Commerce,Wishlist,Verify Wishlist functionality scenario 297,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0298,E-Commerce,Checkout,Verify Checkout functionality scenario 298,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0299,E-Commerce,Payment,Verify Payment functionality scenario 299,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0300,E-Commerce,Order Management,Verify Order Management functionality scenario 300,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0301,E-Commerce,Login,Verify Login functionality scenario 301,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0302,E-Commerce,Registration,Verify Registration functionality scenario 302,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0303,E-Commerce,Dashboard,Verify Dashboard functionality scenario 303,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0304,E-Commerce,Search,Verify Search functionality scenario 304,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0305,E-Commerce,Product Details,Verify Product Details functionality scenario 305,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0306,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 306,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0307,E-Commerce,Wishlist,Verify Wishlist functionality scenario 307,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0308,E-Commerce,Checkout,Verify Checkout functionality scenario 308,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0309,E-Commerce,Payment,Verify Payment functionality scenario 309,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0310,E-Commerce,Order Management,Verify Order Management functionality scenario 310,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0311,E-Commerce,Login,Verify Login functionality scenario 311,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0312,E-Commerce,Registration,Verify Registration functionality scenario 312,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0313,E-Commerce,Dashboard,Verify Dashboard functionality scenario 313,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0314,E-Commerce,Search,Verify Search functionality scenario 314,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0315,E-Commerce,Product Details,Verify Product Details functionality scenario 315,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0316,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 316,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0317,E-Commerce,Wishlist,Verify Wishlist functionality scenario 317,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0318,E-Commerce,Checkout,Verify Checkout functionality scenario 318,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0319,E-Commerce,Payment,Verify Payment functionality scenario 319,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0320,E-Commerce,Order Management,Verify Order Management functionality scenario 320,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0321,E-Commerce,Login,Verify Login functionality scenario 321,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0322,E-Commerce,Registration,Verify Registration functionality scenario 322,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0323,E-Commerce,Dashboard,Verify Dashboard functionality scenario 323,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0324,E-Commerce,Search,Verify Search functionality scenario 324,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0325,E-Commerce,Product Details,Verify Product Details functionality scenario 325,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0326,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 326,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0327,E-Commerce,Wishlist,Verify Wishlist functionality scenario 327,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0328,E-Commerce,Checkout,Verify Checkout functionality scenario 328,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0329,E-Commerce,Payment,Verify Payment functionality scenario 329,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0330,E-Commerce,Order Management,Verify Order Management functionality scenario 330,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0331,E-Commerce,Login,Verify Login functionality scenario 331,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0332,E-Commerce,Registration,Verify Registration functionality scenario 332,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0333,E-Commerce,Dashboard,Verify Dashboard functionality scenario 333,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0334,E-Commerce,Search,Verify Search functionality scenario 334,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0335,E-Commerce,Product Details,Verify Product Details functionality scenario 335,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0336,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 336,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0337,E-Commerce,Wishlist,Verify Wishlist functionality scenario 337,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0338,E-Commerce,Checkout,Verify Checkout functionality scenario 338,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0339,E-Commerce,Payment,Verify Payment functionality scenario 339,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0340,E-Commerce,Order Management,Verify Order Management functionality scenario 340,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0341,E-Commerce,Login,Verify Login functionality scenario 341,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0342,E-Commerce,Registration,Verify Registration functionality scenario 342,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0343,E-Commerce,Dashboard,Verify Dashboard functionality scenario 343,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0344,E-Commerce,Search,Verify Search functionality scenario 344,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0345,E-Commerce,Product Details,Verify Product Details functionality scenario 345,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0346,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 346,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0347,E-Commerce,Wishlist,Verify Wishlist functionality scenario 347,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0348,E-Commerce,Checkout,Verify Checkout functionality scenario 348,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0349,E-Commerce,Payment,Verify Payment functionality scenario 349,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0350,E-Commerce,Order Management,Verify Order Management functionality scenario 350,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0351,E-Commerce,Login,Verify Login functionality scenario 351,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0352,E-Commerce,Registration,Verify Registration functionality scenario 352,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0353,E-Commerce,Dashboard,Verify Dashboard functionality scenario 353,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0354,E-Commerce,Search,Verify Search functionality scenario 354,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0355,E-Commerce,Product Details,Verify Product Details functionality scenario 355,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0356,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 356,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0357,E-Commerce,Wishlist,Verify Wishlist functionality scenario 357,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0358,E-Commerce,Checkout,Verify Checkout functionality scenario 358,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0359,E-Commerce,Payment,Verify Payment functionality scenario 359,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0360,E-Commerce,Order Management,Verify Order Management functionality scenario 360,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0361,E-Commerce,Login,Verify Login functionality scenario 361,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0362,E-Commerce,Registration,Verify Registration functionality scenario 362,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0363,E-Commerce,Dashboard,Verify Dashboard functionality scenario 363,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0364,E-Commerce,Search,Verify Search functionality scenario 364,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0365,E-Commerce,Product Details,Verify Product Details functionality scenario 365,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0366,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 366,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0367,E-Commerce,Wishlist,Verify Wishlist functionality scenario 367,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0368,E-Commerce,Checkout,Verify Checkout functionality scenario 368,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0369,E-Commerce,Payment,Verify Payment functionality scenario 369,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0370,E-Commerce,Order Management,Verify Order Management functionality scenario 370,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0371,E-Commerce,Login,Verify Login functionality scenario 371,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0372,E-Commerce,Registration,Verify Registration functionality scenario 372,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0373,E-Commerce,Dashboard,Verify Dashboard functionality scenario 373,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0374,E-Commerce,Search,Verify Search functionality scenario 374,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0375,E-Commerce,Product Details,Verify Product Details functionality scenario 375,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0376,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 376,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0377,E-Commerce,Wishlist,Verify Wishlist functionality scenario 377,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0378,E-Commerce,Checkout,Verify Checkout functionality scenario 378,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0379,E-Commerce,Payment,Verify Payment functionality scenario 379,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0380,E-Commerce,Order Management,Verify Order Management functionality scenario 380,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0381,E-Commerce,Login,Verify Login functionality scenario 381,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0382,E-Commerce,Registration,Verify Registration functionality scenario 382,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0383,E-Commerce,Dashboard,Verify Dashboard functionality scenario 383,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0384,E-Commerce,Search,Verify Search functionality scenario 384,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0385,E-Commerce,Product Details,Verify Product Details functionality scenario 385,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0386,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 386,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0387,E-Commerce,Wishlist,Verify Wishlist functionality scenario 387,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0388,E-Commerce,Checkout,Verify Checkout functionality scenario 388,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0389,E-Commerce,Payment,Verify Payment functionality scenario 389,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0390,E-Commerce,Order Management,Verify Order Management functionality scenario 390,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0391,E-Commerce,Login,Verify Login functionality scenario 391,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0392,E-Commerce,Registration,Verify Registration functionality scenario 392,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0393,E-Commerce,Dashboard,Verify Dashboard functionality scenario 393,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0394,E-Commerce,Search,Verify Search functionality scenario 394,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0395,E-Commerce,Product Details,Verify Product Details functionality scenario 395,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0396,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 396,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0397,E-Commerce,Wishlist,Verify Wishlist functionality scenario 397,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0398,E-Commerce,Checkout,Verify Checkout functionality scenario 398,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0399,E-Commerce,Payment,Verify Payment functionality scenario 399,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0400,E-Commerce,Order Management,Verify Order Management functionality scenario 400,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0401,E-Commerce,Login,Verify Login functionality scenario 401,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0402,E-Commerce,Registration,Verify Registration functionality scenario 402,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0403,E-Commerce,Dashboard,Verify Dashboard functionality scenario 403,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0404,E-Commerce,Search,Verify Search functionality scenario 404,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0405,E-Commerce,Product Details,Verify Product Details functionality scenario 405,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0406,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 406,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0407,E-Commerce,Wishlist,Verify Wishlist functionality scenario 407,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0408,E-Commerce,Checkout,Verify Checkout functionality scenario 408,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0409,E-Commerce,Payment,Verify Payment functionality scenario 409,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0410,E-Commerce,Order Management,Verify Order Management functionality scenario 410,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0411,E-Commerce,Login,Verify Login functionality scenario 411,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0412,E-Commerce,Registration,Verify Registration functionality scenario 412,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0413,E-Commerce,Dashboard,Verify Dashboard functionality scenario 413,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0414,E-Commerce,Search,Verify Search functionality scenario 414,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0415,E-Commerce,Product Details,Verify Product Details functionality scenario 415,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0416,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 416,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0417,E-Commerce,Wishlist,Verify Wishlist functionality scenario 417,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0418,E-Commerce,Checkout,Verify Checkout functionality scenario 418,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0419,E-Commerce,Payment,Verify Payment functionality scenario 419,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0420,E-Commerce,Order Management,Verify Order Management functionality scenario 420,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0421,E-Commerce,Login,Verify Login functionality scenario 421,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0422,E-Commerce,Registration,Verify Registration functionality scenario 422,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0423,E-Commerce,Dashboard,Verify Dashboard functionality scenario 423,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0424,E-Commerce,Search,Verify Search functionality scenario 424,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0425,E-Commerce,Product Details,Verify Product Details functionality scenario 425,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0426,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 426,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0427,E-Commerce,Wishlist,Verify Wishlist functionality scenario 427,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0428,E-Commerce,Checkout,Verify Checkout functionality scenario 428,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0429,E-Commerce,Payment,Verify Payment functionality scenario 429,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0430,E-Commerce,Order Management,Verify Order Management functionality scenario 430,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0431,E-Commerce,Login,Verify Login functionality scenario 431,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0432,E-Commerce,Registration,Verify Registration functionality scenario 432,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0433,E-Commerce,Dashboard,Verify Dashboard functionality scenario 433,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0434,E-Commerce,Search,Verify Search functionality scenario 434,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0435,E-Commerce,Product Details,Verify Product Details functionality scenario 435,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0436,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 436,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0437,E-Commerce,Wishlist,Verify Wishlist functionality scenario 437,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0438,E-Commerce,Checkout,Verify Checkout functionality scenario 438,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0439,E-Commerce,Payment,Verify Payment functionality scenario 439,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0440,E-Commerce,Order Management,Verify Order Management functionality scenario 440,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0441,E-Commerce,Login,Verify Login functionality scenario 441,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0442,E-Commerce,Registration,Verify Registration functionality scenario 442,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0443,E-Commerce,Dashboard,Verify Dashboard functionality scenario 443,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0444,E-Commerce,Search,Verify Search functionality scenario 444,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0445,E-Commerce,Product Details,Verify Product Details functionality scenario 445,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0446,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 446,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0447,E-Commerce,Wishlist,Verify Wishlist functionality scenario 447,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0448,E-Commerce,Checkout,Verify Checkout functionality scenario 448,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0449,E-Commerce,Payment,Verify Payment functionality scenario 449,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0450,E-Commerce,Order Management,Verify Order Management functionality scenario 450,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0451,E-Commerce,Login,Verify Login functionality scenario 451,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0452,E-Commerce,Registration,Verify Registration functionality scenario 452,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0453,E-Commerce,Dashboard,Verify Dashboard functionality scenario 453,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0454,E-Commerce,Search,Verify Search functionality scenario 454,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0455,E-Commerce,Product Details,Verify Product Details functionality scenario 455,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0456,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 456,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0457,E-Commerce,Wishlist,Verify Wishlist functionality scenario 457,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0458,E-Commerce,Checkout,Verify Checkout functionality scenario 458,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0459,E-Commerce,Payment,Verify Payment functionality scenario 459,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0460,E-Commerce,Order Management,Verify Order Management functionality scenario 460,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0461,E-Commerce,Login,Verify Login functionality scenario 461,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0462,E-Commerce,Registration,Verify Registration functionality scenario 462,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0463,E-Commerce,Dashboard,Verify Dashboard functionality scenario 463,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0464,E-Commerce,Search,Verify Search functionality scenario 464,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0465,E-Commerce,Product Details,Verify Product Details functionality scenario 465,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0466,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 466,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0467,E-Commerce,Wishlist,Verify Wishlist functionality scenario 467,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0468,E-Commerce,Checkout,Verify Checkout functionality scenario 468,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0469,E-Commerce,Payment,Verify Payment functionality scenario 469,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0470,E-Commerce,Order Management,Verify Order Management functionality scenario 470,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0471,E-Commerce,Login,Verify Login functionality scenario 471,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0472,E-Commerce,Registration,Verify Registration functionality scenario 472,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0473,E-Commerce,Dashboard,Verify Dashboard functionality scenario 473,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0474,E-Commerce,Search,Verify Search functionality scenario 474,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0475,E-Commerce,Product Details,Verify Product Details functionality scenario 475,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0476,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 476,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0477,E-Commerce,Wishlist,Verify Wishlist functionality scenario 477,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0478,E-Commerce,Checkout,Verify Checkout functionality scenario 478,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0479,E-Commerce,Payment,Verify Payment functionality scenario 479,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0480,E-Commerce,Order Management,Verify Order Management functionality scenario 480,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0481,E-Commerce,Login,Verify Login functionality scenario 481,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0482,E-Commerce,Registration,Verify Registration functionality scenario 482,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0483,E-Commerce,Dashboard,Verify Dashboard functionality scenario 483,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0484,E-Commerce,Search,Verify Search functionality scenario 484,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0485,E-Commerce,Product Details,Verify Product Details functionality scenario 485,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0486,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 486,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0487,E-Commerce,Wishlist,Verify Wishlist functionality scenario 487,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0488,E-Commerce,Checkout,Verify Checkout functionality scenario 488,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0489,E-Commerce,Payment,Verify Payment functionality scenario 489,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0490,E-Commerce,Order Management,Verify Order Management functionality scenario 490,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0491,E-Commerce,Login,Verify Login functionality scenario 491,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0492,E-Commerce,Registration,Verify Registration functionality scenario 492,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0493,E-Commerce,Dashboard,Verify Dashboard functionality scenario 493,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0494,E-Commerce,Search,Verify Search functionality scenario 494,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0495,E-Commerce,Product Details,Verify Product Details functionality scenario 495,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0496,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 496,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0497,E-Commerce,Wishlist,Verify Wishlist functionality scenario 497,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0498,E-Commerce,Checkout,Verify Checkout functionality scenario 498,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0499,E-Commerce,Payment,Verify Payment functionality scenario 499,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0500,E-Commerce,Order Management,Verify Order Management functionality scenario 500,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0501,E-Commerce,Login,Verify Login functionality scenario 501,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0502,E-Commerce,Registration,Verify Registration functionality scenario 502,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0503,E-Commerce,Dashboard,Verify Dashboard functionality scenario 503,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0504,E-Commerce,Search,Verify Search functionality scenario 504,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0505,E-Commerce,Product Details,Verify Product Details functionality scenario 505,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0506,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 506,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0507,E-Commerce,Wishlist,Verify Wishlist functionality scenario 507,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0508,E-Commerce,Checkout,Verify Checkout functionality scenario 508,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0509,E-Commerce,Payment,Verify Payment functionality scenario 509,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0510,E-Commerce,Order Management,Verify Order Management functionality scenario 510,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0511,E-Commerce,Login,Verify Login functionality scenario 511,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0512,E-Commerce,Registration,Verify Registration functionality scenario 512,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0513,E-Commerce,Dashboard,Verify Dashboard functionality scenario 513,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0514,E-Commerce,Search,Verify Search functionality scenario 514,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0515,E-Commerce,Product Details,Verify Product Details functionality scenario 515,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0516,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 516,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0517,E-Commerce,Wishlist,Verify Wishlist functionality scenario 517,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0518,E-Commerce,Checkout,Verify Checkout functionality scenario 518,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0519,E-Commerce,Payment,Verify Payment functionality scenario 519,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0520,E-Commerce,Order Management,Verify Order Management functionality scenario 520,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0521,E-Commerce,Login,Verify Login functionality scenario 521,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0522,E-Commerce,Registration,Verify Registration functionality scenario 522,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0523,E-Commerce,Dashboard,Verify Dashboard functionality scenario 523,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0524,E-Commerce,Search,Verify Search functionality scenario 524,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0525,E-Commerce,Product Details,Verify Product Details functionality scenario 525,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0526,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 526,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0527,E-Commerce,Wishlist,Verify Wishlist functionality scenario 527,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0528,E-Commerce,Checkout,Verify Checkout functionality scenario 528,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0529,E-Commerce,Payment,Verify Payment functionality scenario 529,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0530,E-Commerce,Order Management,Verify Order Management functionality scenario 530,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0531,E-Commerce,Login,Verify Login functionality scenario 531,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0532,E-Commerce,Registration,Verify Registration functionality scenario 532,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0533,E-Commerce,Dashboard,Verify Dashboard functionality scenario 533,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0534,E-Commerce,Search,Verify Search functionality scenario 534,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0535,E-Commerce,Product Details,Verify Product Details functionality scenario 535,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0536,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 536,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0537,E-Commerce,Wishlist,Verify Wishlist functionality scenario 537,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0538,E-Commerce,Checkout,Verify Checkout functionality scenario 538,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0539,E-Commerce,Payment,Verify Payment functionality scenario 539,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0540,E-Commerce,Order Management,Verify Order Management functionality scenario 540,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0541,E-Commerce,Login,Verify Login functionality scenario 541,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0542,E-Commerce,Registration,Verify Registration functionality scenario 542,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0543,E-Commerce,Dashboard,Verify Dashboard functionality scenario 543,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0544,E-Commerce,Search,Verify Search functionality scenario 544,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0545,E-Commerce,Product Details,Verify Product Details functionality scenario 545,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0546,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 546,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0547,E-Commerce,Wishlist,Verify Wishlist functionality scenario 547,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0548,E-Commerce,Checkout,Verify Checkout functionality scenario 548,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0549,E-Commerce,Payment,Verify Payment functionality scenario 549,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0550,E-Commerce,Order Management,Verify Order Management functionality scenario 550,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0551,E-Commerce,Login,Verify Login functionality scenario 551,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0552,E-Commerce,Registration,Verify Registration functionality scenario 552,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0553,E-Commerce,Dashboard,Verify Dashboard functionality scenario 553,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0554,E-Commerce,Search,Verify Search functionality scenario 554,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0555,E-Commerce,Product Details,Verify Product Details functionality scenario 555,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0556,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 556,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0557,E-Commerce,Wishlist,Verify Wishlist functionality scenario 557,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0558,E-Commerce,Checkout,Verify Checkout functionality scenario 558,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0559,E-Commerce,Payment,Verify Payment functionality scenario 559,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0560,E-Commerce,Order Management,Verify Order Management functionality scenario 560,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0561,E-Commerce,Login,Verify Login functionality scenario 561,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0562,E-Commerce,Registration,Verify Registration functionality scenario 562,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0563,E-Commerce,Dashboard,Verify Dashboard functionality scenario 563,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0564,E-Commerce,Search,Verify Search functionality scenario 564,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0565,E-Commerce,Product Details,Verify Product Details functionality scenario 565,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0566,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 566,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0567,E-Commerce,Wishlist,Verify Wishlist functionality scenario 567,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0568,E-Commerce,Checkout,Verify Checkout functionality scenario 568,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0569,E-Commerce,Payment,Verify Payment functionality scenario 569,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0570,E-Commerce,Order Management,Verify Order Management functionality scenario 570,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0571,E-Commerce,Login,Verify Login functionality scenario 571,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0572,E-Commerce,Registration,Verify Registration functionality scenario 572,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0573,E-Commerce,Dashboard,Verify Dashboard functionality scenario 573,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0574,E-Commerce,Search,Verify Search functionality scenario 574,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0575,E-Commerce,Product Details,Verify Product Details functionality scenario 575,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0576,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 576,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0577,E-Commerce,Wishlist,Verify Wishlist functionality scenario 577,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0578,E-Commerce,Checkout,Verify Checkout functionality scenario 578,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0579,E-Commerce,Payment,Verify Payment functionality scenario 579,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0580,E-Commerce,Order Management,Verify Order Management functionality scenario 580,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0581,E-Commerce,Login,Verify Login functionality scenario 581,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0582,E-Commerce,Registration,Verify Registration functionality scenario 582,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0583,E-Commerce,Dashboard,Verify Dashboard functionality scenario 583,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0584,E-Commerce,Search,Verify Search functionality scenario 584,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0585,E-Commerce,Product Details,Verify Product Details functionality scenario 585,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0586,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 586,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0587,E-Commerce,Wishlist,Verify Wishlist functionality scenario 587,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0588,E-Commerce,Checkout,Verify Checkout functionality scenario 588,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0589,E-Commerce,Payment,Verify Payment functionality scenario 589,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0590,E-Commerce,Order Management,Verify Order Management functionality scenario 590,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0591,E-Commerce,Login,Verify Login functionality scenario 591,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0592,E-Commerce,Registration,Verify Registration functionality scenario 592,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0593,E-Commerce,Dashboard,Verify Dashboard functionality scenario 593,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0594,E-Commerce,Search,Verify Search functionality scenario 594,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0595,E-Commerce,Product Details,Verify Product Details functionality scenario 595,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0596,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 596,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0597,E-Commerce,Wishlist,Verify Wishlist functionality scenario 597,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0598,E-Commerce,Checkout,Verify Checkout functionality scenario 598,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0599,E-Commerce,Payment,Verify Payment functionality scenario 599,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0600,E-Commerce,Order Management,Verify Order Management functionality scenario 600,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0601,E-Commerce,Login,Verify Login functionality scenario 601,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0602,E-Commerce,Registration,Verify Registration functionality scenario 602,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0603,E-Commerce,Dashboard,Verify Dashboard functionality scenario 603,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0604,E-Commerce,Search,Verify Search functionality scenario 604,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0605,E-Commerce,Product Details,Verify Product Details functionality scenario 605,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0606,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 606,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0607,E-Commerce,Wishlist,Verify Wishlist functionality scenario 607,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0608,E-Commerce,Checkout,Verify Checkout functionality scenario 608,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0609,E-Commerce,Payment,Verify Payment functionality scenario 609,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0610,E-Commerce,Order Management,Verify Order Management functionality scenario 610,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0611,E-Commerce,Login,Verify Login functionality scenario 611,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0612,E-Commerce,Registration,Verify Registration functionality scenario 612,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0613,E-Commerce,Dashboard,Verify Dashboard functionality scenario 613,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0614,E-Commerce,Search,Verify Search functionality scenario 614,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0615,E-Commerce,Product Details,Verify Product Details functionality scenario 615,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0616,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 616,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0617,E-Commerce,Wishlist,Verify Wishlist functionality scenario 617,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0618,E-Commerce,Checkout,Verify Checkout functionality scenario 618,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0619,E-Commerce,Payment,Verify Payment functionality scenario 619,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0620,E-Commerce,Order Management,Verify Order Management functionality scenario 620,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0621,E-Commerce,Login,Verify Login functionality scenario 621,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0622,E-Commerce,Registration,Verify Registration functionality scenario 622,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0623,E-Commerce,Dashboard,Verify Dashboard functionality scenario 623,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0624,E-Commerce,Search,Verify Search functionality scenario 624,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0625,E-Commerce,Product Details,Verify Product Details functionality scenario 625,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0626,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 626,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0627,E-Commerce,Wishlist,Verify Wishlist functionality scenario 627,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0628,E-Commerce,Checkout,Verify Checkout functionality scenario 628,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0629,E-Commerce,Payment,Verify Payment functionality scenario 629,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0630,E-Commerce,Order Management,Verify Order Management functionality scenario 630,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0631,E-Commerce,Login,Verify Login functionality scenario 631,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0632,E-Commerce,Registration,Verify Registration functionality scenario 632,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0633,E-Commerce,Dashboard,Verify Dashboard functionality scenario 633,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0634,E-Commerce,Search,Verify Search functionality scenario 634,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0635,E-Commerce,Product Details,Verify Product Details functionality scenario 635,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0636,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 636,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0637,E-Commerce,Wishlist,Verify Wishlist functionality scenario 637,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0638,E-Commerce,Checkout,Verify Checkout functionality scenario 638,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0639,E-Commerce,Payment,Verify Payment functionality scenario 639,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0640,E-Commerce,Order Management,Verify Order Management functionality scenario 640,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0641,E-Commerce,Login,Verify Login functionality scenario 641,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0642,E-Commerce,Registration,Verify Registration functionality scenario 642,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0643,E-Commerce,Dashboard,Verify Dashboard functionality scenario 643,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0644,E-Commerce,Search,Verify Search functionality scenario 644,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0645,E-Commerce,Product Details,Verify Product Details functionality scenario 645,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0646,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 646,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0647,E-Commerce,Wishlist,Verify Wishlist functionality scenario 647,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0648,E-Commerce,Checkout,Verify Checkout functionality scenario 648,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0649,E-Commerce,Payment,Verify Payment functionality scenario 649,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0650,E-Commerce,Order Management,Verify Order Management functionality scenario 650,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0651,E-Commerce,Login,Verify Login functionality scenario 651,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0652,E-Commerce,Registration,Verify Registration functionality scenario 652,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0653,E-Commerce,Dashboard,Verify Dashboard functionality scenario 653,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0654,E-Commerce,Search,Verify Search functionality scenario 654,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0655,E-Commerce,Product Details,Verify Product Details functionality scenario 655,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0656,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 656,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0657,E-Commerce,Wishlist,Verify Wishlist functionality scenario 657,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0658,E-Commerce,Checkout,Verify Checkout functionality scenario 658,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0659,E-Commerce,Payment,Verify Payment functionality scenario 659,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0660,E-Commerce,Order Management,Verify Order Management functionality scenario 660,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0661,E-Commerce,Login,Verify Login functionality scenario 661,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0662,E-Commerce,Registration,Verify Registration functionality scenario 662,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0663,E-Commerce,Dashboard,Verify Dashboard functionality scenario 663,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0664,E-Commerce,Search,Verify Search functionality scenario 664,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0665,E-Commerce,Product Details,Verify Product Details functionality scenario 665,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0666,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 666,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0667,E-Commerce,Wishlist,Verify Wishlist functionality scenario 667,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0668,E-Commerce,Checkout,Verify Checkout functionality scenario 668,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0669,E-Commerce,Payment,Verify Payment functionality scenario 669,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0670,E-Commerce,Order Management,Verify Order Management functionality scenario 670,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0671,E-Commerce,Login,Verify Login functionality scenario 671,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0672,E-Commerce,Registration,Verify Registration functionality scenario 672,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0673,E-Commerce,Dashboard,Verify Dashboard functionality scenario 673,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0674,E-Commerce,Search,Verify Search functionality scenario 674,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0675,E-Commerce,Product Details,Verify Product Details functionality scenario 675,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0676,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 676,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0677,E-Commerce,Wishlist,Verify Wishlist functionality scenario 677,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0678,E-Commerce,Checkout,Verify Checkout functionality scenario 678,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0679,E-Commerce,Payment,Verify Payment functionality scenario 679,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0680,E-Commerce,Order Management,Verify Order Management functionality scenario 680,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0681,E-Commerce,Login,Verify Login functionality scenario 681,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0682,E-Commerce,Registration,Verify Registration functionality scenario 682,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0683,E-Commerce,Dashboard,Verify Dashboard functionality scenario 683,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0684,E-Commerce,Search,Verify Search functionality scenario 684,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0685,E-Commerce,Product Details,Verify Product Details functionality scenario 685,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0686,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 686,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0687,E-Commerce,Wishlist,Verify Wishlist functionality scenario 687,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0688,E-Commerce,Checkout,Verify Checkout functionality scenario 688,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0689,E-Commerce,Payment,Verify Payment functionality scenario 689,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0690,E-Commerce,Order Management,Verify Order Management functionality scenario 690,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0691,E-Commerce,Login,Verify Login functionality scenario 691,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0692,E-Commerce,Registration,Verify Registration functionality scenario 692,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0693,E-Commerce,Dashboard,Verify Dashboard functionality scenario 693,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0694,E-Commerce,Search,Verify Search functionality scenario 694,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0695,E-Commerce,Product Details,Verify Product Details functionality scenario 695,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0696,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 696,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0697,E-Commerce,Wishlist,Verify Wishlist functionality scenario 697,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0698,E-Commerce,Checkout,Verify Checkout functionality scenario 698,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0699,E-Commerce,Payment,Verify Payment functionality scenario 699,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0700,E-Commerce,Order Management,Verify Order Management functionality scenario 700,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0701,E-Commerce,Login,Verify Login functionality scenario 701,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0702,E-Commerce,Registration,Verify Registration functionality scenario 702,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0703,E-Commerce,Dashboard,Verify Dashboard functionality scenario 703,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0704,E-Commerce,Search,Verify Search functionality scenario 704,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0705,E-Commerce,Product Details,Verify Product Details functionality scenario 705,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0706,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 706,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0707,E-Commerce,Wishlist,Verify Wishlist functionality scenario 707,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0708,E-Commerce,Checkout,Verify Checkout functionality scenario 708,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0709,E-Commerce,Payment,Verify Payment functionality scenario 709,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0710,E-Commerce,Order Management,Verify Order Management functionality scenario 710,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0711,E-Commerce,Login,Verify Login functionality scenario 711,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0712,E-Commerce,Registration,Verify Registration functionality scenario 712,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0713,E-Commerce,Dashboard,Verify Dashboard functionality scenario 713,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0714,E-Commerce,Search,Verify Search functionality scenario 714,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0715,E-Commerce,Product Details,Verify Product Details functionality scenario 715,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0716,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 716,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0717,E-Commerce,Wishlist,Verify Wishlist functionality scenario 717,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0718,E-Commerce,Checkout,Verify Checkout functionality scenario 718,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0719,E-Commerce,Payment,Verify Payment functionality scenario 719,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0720,E-Commerce,Order Management,Verify Order Management functionality scenario 720,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0721,E-Commerce,Login,Verify Login functionality scenario 721,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0722,E-Commerce,Registration,Verify Registration functionality scenario 722,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0723,E-Commerce,Dashboard,Verify Dashboard functionality scenario 723,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0724,E-Commerce,Search,Verify Search functionality scenario 724,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0725,E-Commerce,Product Details,Verify Product Details functionality scenario 725,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0726,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 726,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0727,E-Commerce,Wishlist,Verify Wishlist functionality scenario 727,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0728,E-Commerce,Checkout,Verify Checkout functionality scenario 728,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0729,E-Commerce,Payment,Verify Payment functionality scenario 729,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0730,E-Commerce,Order Management,Verify Order Management functionality scenario 730,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0731,E-Commerce,Login,Verify Login functionality scenario 731,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0732,E-Commerce,Registration,Verify Registration functionality scenario 732,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0733,E-Commerce,Dashboard,Verify Dashboard functionality scenario 733,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0734,E-Commerce,Search,Verify Search functionality scenario 734,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0735,E-Commerce,Product Details,Verify Product Details functionality scenario 735,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0736,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 736,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0737,E-Commerce,Wishlist,Verify Wishlist functionality scenario 737,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0738,E-Commerce,Checkout,Verify Checkout functionality scenario 738,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0739,E-Commerce,Payment,Verify Payment functionality scenario 739,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0740,E-Commerce,Order Management,Verify Order Management functionality scenario 740,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0741,E-Commerce,Login,Verify Login functionality scenario 741,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0742,E-Commerce,Registration,Verify Registration functionality scenario 742,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0743,E-Commerce,Dashboard,Verify Dashboard functionality scenario 743,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0744,E-Commerce,Search,Verify Search functionality scenario 744,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0745,E-Commerce,Product Details,Verify Product Details functionality scenario 745,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0746,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 746,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0747,E-Commerce,Wishlist,Verify Wishlist functionality scenario 747,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0748,E-Commerce,Checkout,Verify Checkout functionality scenario 748,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0749,E-Commerce,Payment,Verify Payment functionality scenario 749,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0750,E-Commerce,Order Management,Verify Order Management functionality scenario 750,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0751,E-Commerce,Login,Verify Login functionality scenario 751,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0752,E-Commerce,Registration,Verify Registration functionality scenario 752,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0753,E-Commerce,Dashboard,Verify Dashboard functionality scenario 753,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0754,E-Commerce,Search,Verify Search functionality scenario 754,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0755,E-Commerce,Product Details,Verify Product Details functionality scenario 755,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0756,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 756,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0757,E-Commerce,Wishlist,Verify Wishlist functionality scenario 757,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0758,E-Commerce,Checkout,Verify Checkout functionality scenario 758,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0759,E-Commerce,Payment,Verify Payment functionality scenario 759,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0760,E-Commerce,Order Management,Verify Order Management functionality scenario 760,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0761,E-Commerce,Login,Verify Login functionality scenario 761,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0762,E-Commerce,Registration,Verify Registration functionality scenario 762,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0763,E-Commerce,Dashboard,Verify Dashboard functionality scenario 763,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0764,E-Commerce,Search,Verify Search functionality scenario 764,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0765,E-Commerce,Product Details,Verify Product Details functionality scenario 765,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0766,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 766,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0767,E-Commerce,Wishlist,Verify Wishlist functionality scenario 767,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0768,E-Commerce,Checkout,Verify Checkout functionality scenario 768,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0769,E-Commerce,Payment,Verify Payment functionality scenario 769,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0770,E-Commerce,Order Management,Verify Order Management functionality scenario 770,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0771,E-Commerce,Login,Verify Login functionality scenario 771,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0772,E-Commerce,Registration,Verify Registration functionality scenario 772,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0773,E-Commerce,Dashboard,Verify Dashboard functionality scenario 773,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0774,E-Commerce,Search,Verify Search functionality scenario 774,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0775,E-Commerce,Product Details,Verify Product Details functionality scenario 775,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0776,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 776,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0777,E-Commerce,Wishlist,Verify Wishlist functionality scenario 777,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0778,E-Commerce,Checkout,Verify Checkout functionality scenario 778,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0779,E-Commerce,Payment,Verify Payment functionality scenario 779,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0780,E-Commerce,Order Management,Verify Order Management functionality scenario 780,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0781,E-Commerce,Login,Verify Login functionality scenario 781,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0782,E-Commerce,Registration,Verify Registration functionality scenario 782,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0783,E-Commerce,Dashboard,Verify Dashboard functionality scenario 783,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0784,E-Commerce,Search,Verify Search functionality scenario 784,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0785,E-Commerce,Product Details,Verify Product Details functionality scenario 785,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0786,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 786,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0787,E-Commerce,Wishlist,Verify Wishlist functionality scenario 787,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0788,E-Commerce,Checkout,Verify Checkout functionality scenario 788,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0789,E-Commerce,Payment,Verify Payment functionality scenario 789,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0790,E-Commerce,Order Management,Verify Order Management functionality scenario 790,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0791,E-Commerce,Login,Verify Login functionality scenario 791,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0792,E-Commerce,Registration,Verify Registration functionality scenario 792,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0793,E-Commerce,Dashboard,Verify Dashboard functionality scenario 793,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0794,E-Commerce,Search,Verify Search functionality scenario 794,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0795,E-Commerce,Product Details,Verify Product Details functionality scenario 795,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0796,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 796,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0797,E-Commerce,Wishlist,Verify Wishlist functionality scenario 797,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0798,E-Commerce,Checkout,Verify Checkout functionality scenario 798,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0799,E-Commerce,Payment,Verify Payment functionality scenario 799,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0800,E-Commerce,Order Management,Verify Order Management functionality scenario 800,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0801,E-Commerce,Login,Verify Login functionality scenario 801,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0802,E-Commerce,Registration,Verify Registration functionality scenario 802,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0803,E-Commerce,Dashboard,Verify Dashboard functionality scenario 803,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0804,E-Commerce,Search,Verify Search functionality scenario 804,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0805,E-Commerce,Product Details,Verify Product Details functionality scenario 805,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0806,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 806,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0807,E-Commerce,Wishlist,Verify Wishlist functionality scenario 807,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0808,E-Commerce,Checkout,Verify Checkout functionality scenario 808,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0809,E-Commerce,Payment,Verify Payment functionality scenario 809,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0810,E-Commerce,Order Management,Verify Order Management functionality scenario 810,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0811,E-Commerce,Login,Verify Login functionality scenario 811,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0812,E-Commerce,Registration,Verify Registration functionality scenario 812,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0813,E-Commerce,Dashboard,Verify Dashboard functionality scenario 813,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0814,E-Commerce,Search,Verify Search functionality scenario 814,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0815,E-Commerce,Product Details,Verify Product Details functionality scenario 815,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0816,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 816,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0817,E-Commerce,Wishlist,Verify Wishlist functionality scenario 817,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0818,E-Commerce,Checkout,Verify Checkout functionality scenario 818,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0819,E-Commerce,Payment,Verify Payment functionality scenario 819,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0820,E-Commerce,Order Management,Verify Order Management functionality scenario 820,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0821,E-Commerce,Login,Verify Login functionality scenario 821,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0822,E-Commerce,Registration,Verify Registration functionality scenario 822,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0823,E-Commerce,Dashboard,Verify Dashboard functionality scenario 823,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0824,E-Commerce,Search,Verify Search functionality scenario 824,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0825,E-Commerce,Product Details,Verify Product Details functionality scenario 825,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0826,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 826,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0827,E-Commerce,Wishlist,Verify Wishlist functionality scenario 827,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0828,E-Commerce,Checkout,Verify Checkout functionality scenario 828,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0829,E-Commerce,Payment,Verify Payment functionality scenario 829,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0830,E-Commerce,Order Management,Verify Order Management functionality scenario 830,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0831,E-Commerce,Login,Verify Login functionality scenario 831,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0832,E-Commerce,Registration,Verify Registration functionality scenario 832,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0833,E-Commerce,Dashboard,Verify Dashboard functionality scenario 833,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0834,E-Commerce,Search,Verify Search functionality scenario 834,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0835,E-Commerce,Product Details,Verify Product Details functionality scenario 835,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0836,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 836,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0837,E-Commerce,Wishlist,Verify Wishlist functionality scenario 837,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0838,E-Commerce,Checkout,Verify Checkout functionality scenario 838,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0839,E-Commerce,Payment,Verify Payment functionality scenario 839,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0840,E-Commerce,Order Management,Verify Order Management functionality scenario 840,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0841,E-Commerce,Login,Verify Login functionality scenario 841,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0842,E-Commerce,Registration,Verify Registration functionality scenario 842,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0843,E-Commerce,Dashboard,Verify Dashboard functionality scenario 843,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0844,E-Commerce,Search,Verify Search functionality scenario 844,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0845,E-Commerce,Product Details,Verify Product Details functionality scenario 845,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0846,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 846,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0847,E-Commerce,Wishlist,Verify Wishlist functionality scenario 847,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0848,E-Commerce,Checkout,Verify Checkout functionality scenario 848,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0849,E-Commerce,Payment,Verify Payment functionality scenario 849,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0850,E-Commerce,Order Management,Verify Order Management functionality scenario 850,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0851,E-Commerce,Login,Verify Login functionality scenario 851,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0852,E-Commerce,Registration,Verify Registration functionality scenario 852,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0853,E-Commerce,Dashboard,Verify Dashboard functionality scenario 853,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0854,E-Commerce,Search,Verify Search functionality scenario 854,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0855,E-Commerce,Product Details,Verify Product Details functionality scenario 855,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0856,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 856,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0857,E-Commerce,Wishlist,Verify Wishlist functionality scenario 857,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0858,E-Commerce,Checkout,Verify Checkout functionality scenario 858,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0859,E-Commerce,Payment,Verify Payment functionality scenario 859,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0860,E-Commerce,Order Management,Verify Order Management functionality scenario 860,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0861,E-Commerce,Login,Verify Login functionality scenario 861,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0862,E-Commerce,Registration,Verify Registration functionality scenario 862,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0863,E-Commerce,Dashboard,Verify Dashboard functionality scenario 863,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0864,E-Commerce,Search,Verify Search functionality scenario 864,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0865,E-Commerce,Product Details,Verify Product Details functionality scenario 865,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0866,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 866,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0867,E-Commerce,Wishlist,Verify Wishlist functionality scenario 867,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0868,E-Commerce,Checkout,Verify Checkout functionality scenario 868,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0869,E-Commerce,Payment,Verify Payment functionality scenario 869,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0870,E-Commerce,Order Management,Verify Order Management functionality scenario 870,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0871,E-Commerce,Login,Verify Login functionality scenario 871,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0872,E-Commerce,Registration,Verify Registration functionality scenario 872,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0873,E-Commerce,Dashboard,Verify Dashboard functionality scenario 873,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0874,E-Commerce,Search,Verify Search functionality scenario 874,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0875,E-Commerce,Product Details,Verify Product Details functionality scenario 875,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0876,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 876,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0877,E-Commerce,Wishlist,Verify Wishlist functionality scenario 877,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0878,E-Commerce,Checkout,Verify Checkout functionality scenario 878,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0879,E-Commerce,Payment,Verify Payment functionality scenario 879,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0880,E-Commerce,Order Management,Verify Order Management functionality scenario 880,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0881,E-Commerce,Login,Verify Login functionality scenario 881,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0882,E-Commerce,Registration,Verify Registration functionality scenario 882,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0883,E-Commerce,Dashboard,Verify Dashboard functionality scenario 883,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0884,E-Commerce,Search,Verify Search functionality scenario 884,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0885,E-Commerce,Product Details,Verify Product Details functionality scenario 885,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0886,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 886,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0887,E-Commerce,Wishlist,Verify Wishlist functionality scenario 887,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0888,E-Commerce,Checkout,Verify Checkout functionality scenario 888,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0889,E-Commerce,Payment,Verify Payment functionality scenario 889,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0890,E-Commerce,Order Management,Verify Order Management functionality scenario 890,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0891,E-Commerce,Login,Verify Login functionality scenario 891,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0892,E-Commerce,Registration,Verify Registration functionality scenario 892,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0893,E-Commerce,Dashboard,Verify Dashboard functionality scenario 893,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0894,E-Commerce,Search,Verify Search functionality scenario 894,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0895,E-Commerce,Product Details,Verify Product Details functionality scenario 895,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0896,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 896,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0897,E-Commerce,Wishlist,Verify Wishlist functionality scenario 897,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0898,E-Commerce,Checkout,Verify Checkout functionality scenario 898,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0899,E-Commerce,Payment,Verify Payment functionality scenario 899,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0900,E-Commerce,Order Management,Verify Order Management functionality scenario 900,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0901,E-Commerce,Login,Verify Login functionality scenario 901,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0902,E-Commerce,Registration,Verify Registration functionality scenario 902,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0903,E-Commerce,Dashboard,Verify Dashboard functionality scenario 903,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0904,E-Commerce,Search,Verify Search functionality scenario 904,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0905,E-Commerce,Product Details,Verify Product Details functionality scenario 905,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0906,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 906,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0907,E-Commerce,Wishlist,Verify Wishlist functionality scenario 907,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0908,E-Commerce,Checkout,Verify Checkout functionality scenario 908,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0909,E-Commerce,Payment,Verify Payment functionality scenario 909,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0910,E-Commerce,Order Management,Verify Order Management functionality scenario 910,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0911,E-Commerce,Login,Verify Login functionality scenario 911,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0912,E-Commerce,Registration,Verify Registration functionality scenario 912,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0913,E-Commerce,Dashboard,Verify Dashboard functionality scenario 913,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0914,E-Commerce,Search,Verify Search functionality scenario 914,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0915,E-Commerce,Product Details,Verify Product Details functionality scenario 915,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0916,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 916,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0917,E-Commerce,Wishlist,Verify Wishlist functionality scenario 917,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0918,E-Commerce,Checkout,Verify Checkout functionality scenario 918,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0919,E-Commerce,Payment,Verify Payment functionality scenario 919,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0920,E-Commerce,Order Management,Verify Order Management functionality scenario 920,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0921,E-Commerce,Login,Verify Login functionality scenario 921,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0922,E-Commerce,Registration,Verify Registration functionality scenario 922,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0923,E-Commerce,Dashboard,Verify Dashboard functionality scenario 923,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0924,E-Commerce,Search,Verify Search functionality scenario 924,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0925,E-Commerce,Product Details,Verify Product Details functionality scenario 925,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0926,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 926,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0927,E-Commerce,Wishlist,Verify Wishlist functionality scenario 927,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0928,E-Commerce,Checkout,Verify Checkout functionality scenario 928,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0929,E-Commerce,Payment,Verify Payment functionality scenario 929,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0930,E-Commerce,Order Management,Verify Order Management functionality scenario 930,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0931,E-Commerce,Login,Verify Login functionality scenario 931,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0932,E-Commerce,Registration,Verify Registration functionality scenario 932,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0933,E-Commerce,Dashboard,Verify Dashboard functionality scenario 933,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0934,E-Commerce,Search,Verify Search functionality scenario 934,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0935,E-Commerce,Product Details,Verify Product Details functionality scenario 935,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0936,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 936,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0937,E-Commerce,Wishlist,Verify Wishlist functionality scenario 937,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0938,E-Commerce,Checkout,Verify Checkout functionality scenario 938,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0939,E-Commerce,Payment,Verify Payment functionality scenario 939,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0940,E-Commerce,Order Management,Verify Order Management functionality scenario 940,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0941,E-Commerce,Login,Verify Login functionality scenario 941,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0942,E-Commerce,Registration,Verify Registration functionality scenario 942,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0943,E-Commerce,Dashboard,Verify Dashboard functionality scenario 943,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0944,E-Commerce,Search,Verify Search functionality scenario 944,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0945,E-Commerce,Product Details,Verify Product Details functionality scenario 945,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0946,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 946,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0947,E-Commerce,Wishlist,Verify Wishlist functionality scenario 947,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0948,E-Commerce,Checkout,Verify Checkout functionality scenario 948,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0949,E-Commerce,Payment,Verify Payment functionality scenario 949,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0950,E-Commerce,Order Management,Verify Order Management functionality scenario 950,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0951,E-Commerce,Login,Verify Login functionality scenario 951,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0952,E-Commerce,Registration,Verify Registration functionality scenario 952,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0953,E-Commerce,Dashboard,Verify Dashboard functionality scenario 953,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0954,E-Commerce,Search,Verify Search functionality scenario 954,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0955,E-Commerce,Product Details,Verify Product Details functionality scenario 955,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0956,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 956,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0957,E-Commerce,Wishlist,Verify Wishlist functionality scenario 957,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0958,E-Commerce,Checkout,Verify Checkout functionality scenario 958,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0959,E-Commerce,Payment,Verify Payment functionality scenario 959,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0960,E-Commerce,Order Management,Verify Order Management functionality scenario 960,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0961,E-Commerce,Login,Verify Login functionality scenario 961,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0962,E-Commerce,Registration,Verify Registration functionality scenario 962,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0963,E-Commerce,Dashboard,Verify Dashboard functionality scenario 963,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0964,E-Commerce,Search,Verify Search functionality scenario 964,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0965,E-Commerce,Product Details,Verify Product Details functionality scenario 965,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0966,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 966,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0967,E-Commerce,Wishlist,Verify Wishlist functionality scenario 967,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0968,E-Commerce,Checkout,Verify Checkout functionality scenario 968,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0969,E-Commerce,Payment,Verify Payment functionality scenario 969,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_0970,E-Commerce,Order Management,Verify Order Management functionality scenario 970,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0971,E-Commerce,Login,Verify Login functionality scenario 971,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0972,E-Commerce,Registration,Verify Registration functionality scenario 972,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Negative
+TC_0973,E-Commerce,Dashboard,Verify Dashboard functionality scenario 973,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0974,E-Commerce,Search,Verify Search functionality scenario 974,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0975,E-Commerce,Product Details,Verify Product Details functionality scenario 975,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Negative
+TC_0976,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 976,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0977,E-Commerce,Wishlist,Verify Wishlist functionality scenario 977,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0978,E-Commerce,Checkout,Verify Checkout functionality scenario 978,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Negative
+TC_0979,E-Commerce,Payment,Verify Payment functionality scenario 979,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0980,E-Commerce,Order Management,Verify Order Management functionality scenario 980,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
+TC_0981,E-Commerce,Login,Verify Login functionality scenario 981,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Negative
+TC_0982,E-Commerce,Registration,Verify Registration functionality scenario 982,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0983,E-Commerce,Dashboard,Verify Dashboard functionality scenario 983,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Positive
+TC_0984,E-Commerce,Search,Verify Search functionality scenario 984,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Negative
+TC_0985,E-Commerce,Product Details,Verify Product Details functionality scenario 985,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0986,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 986,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Positive
+TC_0987,E-Commerce,Wishlist,Verify Wishlist functionality scenario 987,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Negative
+TC_0988,E-Commerce,Checkout,Verify Checkout functionality scenario 988,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0989,E-Commerce,Payment,Verify Payment functionality scenario 989,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Positive
+TC_0990,E-Commerce,Order Management,Verify Order Management functionality scenario 990,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Negative
+TC_0991,E-Commerce,Login,Verify Login functionality scenario 991,User performs action related to Login,Expected behavior should be successful,Medium,Functional,Positive
+TC_0992,E-Commerce,Registration,Verify Registration functionality scenario 992,User performs action related to Registration,Expected behavior should be successful,Medium,Functional,Positive
+TC_0993,E-Commerce,Dashboard,Verify Dashboard functionality scenario 993,User performs action related to Dashboard,Expected behavior should be successful,Medium,Functional,Negative
+TC_0994,E-Commerce,Search,Verify Search functionality scenario 994,User performs action related to Search,Expected behavior should be successful,Medium,Functional,Positive
+TC_0995,E-Commerce,Product Details,Verify Product Details functionality scenario 995,User performs action related to Product Details,Expected behavior should be successful,High,Functional,Positive
+TC_0996,E-Commerce,Add to Cart,Verify Add to Cart functionality scenario 996,User performs action related to Add to Cart,Expected behavior should be successful,Medium,Functional,Negative
+TC_0997,E-Commerce,Wishlist,Verify Wishlist functionality scenario 997,User performs action related to Wishlist,Expected behavior should be successful,Medium,Functional,Positive
+TC_0998,E-Commerce,Checkout,Verify Checkout functionality scenario 998,User performs action related to Checkout,Expected behavior should be successful,Medium,Functional,Positive
+TC_0999,E-Commerce,Payment,Verify Payment functionality scenario 999,User performs action related to Payment,Expected behavior should be successful,Medium,Functional,Negative
+TC_1000,E-Commerce,Order Management,Verify Order Management functionality scenario 1000,User performs action related to Order Management,Expected behavior should be successful,High,Functional,Positive
